@@ -1,0 +1,869 @@
+﻿Id,Season,Week,Neutral_Site,Conference_Game,Attendance,Venue_Id,Home_Id,Home_Team,Home_Conference,Home_Division,Home_Points,Home_1_Q_P,Home_2_Q_P,Home_3_Q_P,Home_4_Q_P,Away_Id,Away_Team,Away_Conference,Away_Division,Away_Points,Away_1_Q_P,Away_2_Q_P,Away_3_Q_P,Away_4_Q_P
+401525434,2023,1,TRUE,FALSE,49000,3504,87,Notre Dame,FBS Independents,fbs,42,14,14,7,7,2426,Navy,American Athletic,fbs,3,0,0,0,3
+401520145,2023,1,FALSE,TRUE,17982,3662,55,Jacksonville State,Conference USA,fbs,17,3,7,7,0,2638,UTEP,Conference USA,fbs,14,0,7,0,7
+401525450,2023,1,FALSE,FALSE,15356,3601,166,New Mexico State,Conference USA,fbs,30,0,10,0,20,113,UMass,FBS Independents,fbs,41,7,3,3,28
+401532392,2023,1,FALSE,FALSE,23867,7311,21,San Diego State,Mountain West,fbs,20,3,7,0,10,195,Ohio,Mid-American,fbs,13,3,3,0,7
+401520147,2023,1,FALSE,FALSE,21407,3973,238,Vanderbilt,SEC,fbs,35,14,7,7,7,62,Hawai'i,Mountain West,fbs,28,7,7,0,14
+401523986,2023,1,FALSE,FALSE,63411,477,30,USC,Pac-12,fbs,56,7,14,21,14,23,San José State,Mountain West,fbs,28,0,14,7,7
+401520146,2023,1,FALSE,TRUE,16299,3776,2348,Louisiana Tech,Conference USA,fbs,22,0,13,0,9,2229,Florida International,Conference USA,fbs,17,14,3,0,0
+401525816,2023,1,FALSE,FALSE,44088,3652,2116,UCF,Big 12,fbs,56,14,14,14,14,2309,Kent State,Mid-American,fbs,6,3,0,3,0
+401532393,2023,1,FALSE,FALSE,19432,3980,2711,Western Michigan,Mid-American,fbs,35,7,14,7,7,2598,St Francis (PA),NEC,fcs,17,0,10,7,0
+401525461,2023,1,FALSE,FALSE,30028,3630,154,Wake Forest,ACC,fbs,37,10,14,6,7,2210,Elon,CAA,fcs,17,0,0,14,3
+401531834,2023,1,FALSE,FALSE,15546,4246,2247,Georgia State,Sun Belt,fbs,42,14,7,14,7,227,Rhode Island,CAA,fcs,35,0,14,14,7
+401520174,2023,1,FALSE,FALSE,36526,3892,41,Connecticut,FBS Independents,fbs,14,7,0,7,0,152,NC State,ACC,fbs,24,7,3,14,0
+401531337,2023,1,FALSE,FALSE,17529,3674,202,Tulsa,American Athletic,fbs,42,0,28,7,7,2029,Arkansas-Pine Bluff,SWAC,fcs,7,7,0,0,0
+401520148,2023,1,FALSE,TRUE,53629,3953,135,Minnesota,Big Ten,fbs,13,0,3,0,10,158,Nebraska,Big Ten,fbs,10,0,0,7,3
+401520165,2023,1,FALSE,FALSE,50434,3838,142,Missouri,SEC,fbs,35,14,14,0,7,233,South Dakota,MVFC,fcs,10,0,3,0,7
+401520176,2023,1,FALSE,FALSE,53644,587,254,Utah,Pac-12,fbs,24,7,10,7,0,57,Florida,SEC,fbs,11,3,0,0,8
+401531377,2023,1,FALSE,FALSE,25363,7221,5,UAB,American Athletic,fbs,35,7,14,7,7,2448,North Carolina A&T,CAA,fcs,6,3,0,0,3
+401523987,2023,1,FALSE,FALSE,47773,3947,9,Arizona State,Pac-12,fbs,24,7,14,0,3,253,Southern Utah,UAC,fcs,21,0,7,7,7
+401532394,2023,1,FALSE,FALSE,18065,3912,2199,Eastern Michigan,Mid-American,fbs,33,16,14,0,3,47,Howard,MEAC,fcs,23,0,9,14,0
+401520163,2023,1,FALSE,FALSE,,3936,127,Michigan State,Big Ten,fbs,31,0,10,7,14,2117,Central Michigan,Mid-American,fbs,7,0,7,0,0
+401525463,2023,1,FALSE,FALSE,49024,3948,2390,Miami,ACC,fbs,38,10,6,8,14,193,Miami (OH),Mid-American,fbs,3,0,3,0,0
+401525462,2023,1,TRUE,TRUE,,5348,59,Georgia Tech,ACC,fbs,34,0,28,0,6,97,Louisville,ACC,fbs,39,6,7,10,16
+401525815,2023,1,FALSE,FALSE,41091,3833,2305,Kansas,Big 12,fbs,48,7,10,10,21,2623,Missouri State,MVFC,fcs,17,7,3,0,7
+401523988,2023,1,FALSE,FALSE,13739,7220,62,Hawai'i,Mountain West,fbs,24,0,10,0,14,24,Stanford,Pac-12,fbs,37,7,14,6,10
+401520157,2023,1,FALSE,FALSE,69250,3793,2294,Iowa,Big Ten,fbs,24,14,3,0,7,328,Utah State,Mountain West,fbs,14,0,3,3,8
+401525822,2023,1,FALSE,FALSE,83221,3835,201,Oklahoma,Big 12,fbs,73,28,17,21,7,2032,Arkansas State,Sun Belt,fbs,0,0,0,0,0
+401525464,2023,1,FALSE,FALSE,30122,3615,103,Boston College,ACC,fbs,24,0,0,7,14,2459,Northern Illinois,Mid-American,fbs,27,0,7,7,7
+401523994,2023,1,FALSE,FALSE,53294,3616,2628,TCU,Big 12,fbs,42,0,14,14,14,38,Colorado,Pac-12,fbs,45,7,10,14,14
+401520179,2023,1,TRUE,FALSE,69507,3810,2633,Tennessee,SEC,fbs,49,7,14,14,14,258,Virginia,ACC,fbs,13,0,3,7,3
+401520172,2023,1,FALSE,FALSE,21490,3735,2567,SMU,American Athletic,fbs,38,14,17,0,7,2348,Louisiana Tech,Conference USA,fbs,14,0,0,7,7
+401520170,2023,1,FALSE,FALSE,54898,3907,2509,Purdue,Big Ten,fbs,35,7,14,7,7,278,Fresno State,Mountain West,fbs,39,7,10,8,14
+401520160,2023,1,FALSE,FALSE,18811,3992,2335,Liberty,Conference USA,fbs,34,7,17,7,3,189,Bowling Green,Mid-American,fbs,24,0,14,10,0
+401520159,2023,1,FALSE,FALSE,,3683,96,Kentucky,SEC,fbs,44,3,20,14,7,2050,Ball State,Mid-American,fbs,14,7,0,7,0
+401520162,2023,1,FALSE,FALSE,109480,3558,130,Michigan,Big Ten,fbs,30,7,16,7,0,151,East Carolina,American Athletic,fbs,3,0,0,0,3
+401532570,2023,1,FALSE,FALSE,30142,3713,2005,Air Force,Mountain West,fbs,42,14,14,7,7,2523,Robert Morris,Big South-OVC,fcs,7,0,0,0,7
+401525820,2023,1,FALSE,FALSE,58248,3772,66,Iowa State,Big 12,fbs,30,14,9,7,0,2460,Northern Iowa,MVFC,fcs,9,0,0,3,6
+401520168,2023,1,FALSE,FALSE,60097,3974,145,Ole Miss,SEC,fbs,73,28,10,28,7,2382,Mercer,Southern,fcs,7,7,0,0,0
+401520158,2023,1,FALSE,FALSE,21276,3662,55,Jacksonville State,Conference USA,fbs,49,14,7,21,7,2193,East Tennessee State,Southern,fcs,3,3,0,0,0
+401531387,2023,1,FALSE,FALSE,12456,3806,218,Temple,American Athletic,fbs,24,0,10,6,8,2006,Akron,Mid-American,fbs,21,7,14,0,0
+401532395,2023,1,FALSE,FALSE,18453,3876,195,Ohio,Mid-American,fbs,27,3,14,10,0,112358,Long Island University,NEC,fcs,10,0,3,0,7
+401523992,2023,1,FALSE,FALSE,45723,3626,2483,Oregon,Pac-12,fbs,81,22,28,17,14,2502,Portland State,Big Sky,fcs,7,7,0,0,0
+401531835,2023,1,FALSE,FALSE,36075,3792,2026,Appalachian State,Sun Belt,fbs,45,7,7,17,14,2241,Gardner-Webb,Big South-OVC,fcs,24,0,10,14,0
+401520156,2023,1,FALSE,TRUE,50050,3830,84,Indiana,Big Ten,fbs,3,0,3,0,0,194,Ohio State,Big Ten,fbs,23,7,3,10,3
+401520151,2023,1,FALSE,FALSE,88043,3785,2,Auburn,SEC,fbs,59,10,21,21,7,113,UMass,FBS Independents,fbs,14,7,0,0,7
+401520161,2023,1,FALSE,FALSE,37241,3665,120,Maryland,Big Ten,fbs,38,21,7,7,3,119,Towson,CAA,fcs,6,0,3,3,0
+401520180,2023,1,FALSE,FALSE,76224,347,275,Wisconsin,Big Ten,fbs,38,7,7,14,10,2084,Buffalo,Mid-American,fbs,17,7,3,0,7
+401520181,2023,1,FALSE,FALSE,15438,3796,98,Western Kentucky,Conference USA,fbs,41,7,10,14,10,58,South Florida,American Athletic,fbs,24,14,3,7,0
+401523997,2023,1,FALSE,FALSE,67475,3765,264,Washington,Pac-12,fbs,56,0,28,7,21,68,Boise State,Mountain West,fbs,19,6,6,7,0
+401525435,2023,1,FALSE,FALSE,77622,3855,87,Notre Dame,FBS Independents,fbs,56,7,28,14,7,2634,Tennessee State,Big South-OVC,fcs,3,3,0,0,0
+401525465,2023,1,FALSE,FALSE,45096,3752,221,Pittsburgh,ACC,fbs,45,7,21,10,7,2747,Wofford,Southern,fcs,7,0,0,0,7
+401525824,2023,1,FALSE,FALSE,98017,3910,251,Texas,Big 12,fbs,37,7,9,21,0,242,Rice,American Athletic,fbs,10,3,0,0,7
+401525818,2023,1,FALSE,FALSE,38193,3854,2132,Cincinnati,Big 12,fbs,66,21,21,10,14,2198,Eastern Kentucky,UAC,fcs,13,0,7,3,3
+401520164,2023,1,FALSE,FALSE,50041,3693,344,Mississippi State,SEC,fbs,48,3,17,7,21,2545,Southeastern Louisiana,Southland,fcs,7,0,7,0,0
+401523991,2023,1,FALSE,FALSE,21350,3825,249,North Texas,American Athletic,fbs,21,7,14,0,0,25,California,Pac-12,fbs,58,14,19,15,10
+401532572,2023,1,FALSE,FALSE,20347,6501,2439,UNLV,Mountain West,fbs,44,17,7,17,3,2803,Bryant,Big South-OVC,fcs,14,0,0,7,7
+401520150,2023,1,TRUE,FALSE,44397,3983,8,Arkansas,SEC,fbs,56,21,14,7,14,2717,Western Carolina,Southern,fcs,13,3,0,7,3
+401525466,2023,1,FALSE,FALSE,32465,1964,183,Syracuse,ACC,fbs,65,23,14,28,0,2142,Colgate,Patriot,fcs,0,0,0,0,0
+401531402,2023,1,FALSE,FALSE,15622,4418,2429,Charlotte,American Athletic,fbs,24,0,17,0,7,2569,South Carolina State,MEAC,fcs,3,0,3,0,0
+401531418,2023,1,FALSE,FALSE,20893,3715,2226,Florida Atlantic,American Athletic,fbs,42,14,14,14,0,2405,Monmouth,CAA,fcs,20,7,7,0,6
+401531838,2023,1,FALSE,FALSE,25101,3775,276,Marshall,Sun Belt,fbs,21,0,0,14,7,399,Albany,CAA,fcs,17,0,3,14,0
+401531837,2023,1,FALSE,FALSE,23756,3651,256,James Madison,Sun Belt,fbs,38,3,14,7,14,2083,Bucknell,Patriot,fcs,3,0,3,0,0
+401531836,2023,1,FALSE,FALSE,17803,3608,290,Georgia Southern,Sun Belt,fbs,34,14,10,7,3,2643,The Citadel,Southern,fcs,0,0,0,0,0
+401520154,2023,1,FALSE,FALSE,92746,3917,61,Georgia,SEC,fbs,48,7,10,14,17,2630,UT Martin,Big South-OVC,fcs,7,0,0,0,7
+401520153,2023,1,FALSE,FALSE,16878,218,2229,Florida International,Conference USA,fbs,14,7,7,0,0,311,Maine,CAA,fcs,12,3,3,6,0
+401523996,2023,1,FALSE,FALSE,62916,477,30,USC,Pac-12,fbs,66,21,14,7,24,2440,Nevada,Mountain West,fbs,14,7,0,0,7
+401525819,2023,1,FALSE,FALSE,37862,4728,248,Houston,Big 12,fbs,17,7,3,7,0,2636,UT San Antonio,American Athletic,fbs,14,7,0,0,7
+401531840,2023,1,FALSE,FALSE,30335,3815,2572,Southern Mississippi,Sun Belt,fbs,40,17,10,10,3,2016,Alcorn State,SWAC,fcs,14,7,0,0,7
+401525823,2023,1,FALSE,FALSE,53855,3646,197,Oklahoma State,Big 12,fbs,27,7,6,0,14,2110,Central Arkansas,UAC,fcs,13,0,0,7,6
+401525817,2023,1,FALSE,FALSE,44945,4727,239,Baylor,Big 12,fbs,31,6,7,11,7,326,Texas State,Sun Belt,fbs,42,14,14,7,7
+401523990,2023,1,FALSE,FALSE,31497,5388,36,Colorado State,Mountain West,fbs,24,3,0,0,21,265,Washington State,Pac-12,fbs,50,7,10,12,21
+401520173,2023,1,FALSE,FALSE,97560,3795,245,Texas A&M,SEC,fbs,52,7,28,7,10,167,New Mexico,Mountain West,fbs,10,0,7,3,0
+401520175,2023,1,FALSE,FALSE,18914,3817,2433,Louisiana Monroe,Sun Belt,fbs,17,0,3,0,14,349,Army,FBS Independents,fbs,13,0,10,0,3
+401531426,2023,1,FALSE,FALSE,26632,3805,235,Memphis,American Athletic,fbs,56,10,18,21,7,2065,Bethune-Cookman,SWAC,fcs,14,7,0,0,7
+401520178,2023,1,FALSE,FALSE,22035,3973,238,Vanderbilt,SEC,fbs,47,5,7,14,21,2010,Alabama A&M,SWAC,fcs,13,3,0,7,3
+401525821,2023,1,FALSE,FALSE,52066,3636,2306,Kansas State,Big 12,fbs,45,7,28,3,7,2546,Southeast Missouri State,Big South-OVC,fcs,0,0,0,0,0
+401531841,2023,1,FALSE,FALSE,28179,3975,2653,Troy,Sun Belt,fbs,48,21,10,10,7,2617,Stephen F. Austin,UAC,fcs,30,3,17,0,10
+401531839,2023,1,FALSE,FALSE,18186,3666,309,Louisiana,Sun Belt,fbs,38,7,14,7,10,2466,Northwestern State,Southland,fcs,13,3,3,0,7
+401525825,2023,1,FALSE,FALSE,26450,3984,2751,Wyoming,Mountain West,fbs,35,0,10,7,3,2641,Texas Tech,Big 12,fbs,33,17,0,0,3
+401520155,2023,1,FALSE,FALSE,48898,3832,356,Illinois,Big Ten,fbs,30,7,0,13,10,2649,Toledo,Mid-American,fbs,28,3,9,7,9
+401520169,2023,1,FALSE,FALSE,110747,3632,213,Penn State,Big Ten,fbs,38,7,7,7,17,277,West Virginia,Big 12,fbs,15,0,7,0,8
+401520167,2023,1,TRUE,FALSE,68723,3628,153,North Carolina,ACC,fbs,31,7,10,14,0,2579,South Carolina,SEC,fbs,17,7,7,0,3
+401520149,2023,1,FALSE,FALSE,100077,3657,333,Alabama,SEC,fbs,56,14,14,14,14,2393,Middle Tennessee,Conference USA,fbs,7,0,0,7,0
+401531347,2023,1,FALSE,FALSE,26973,4729,2655,Tulane,American Athletic,fbs,37,10,14,7,6,6,South Alabama,Sun Belt,fbs,17,0,10,7,0
+401525467,2023,1,FALSE,FALSE,65632,3799,259,Virginia Tech,ACC,fbs,36,2,14,14,6,295,Old Dominion,Sun Belt,fbs,17,0,10,7,0
+401520177,2023,1,FALSE,FALSE,30738,3946,2638,UTEP,Conference USA,fbs,28,7,7,7,7,2916,Incarnate Word,Southland,fcs,14,7,7,0,0
+401520166,2023,1,FALSE,FALSE,17943,3601,166,New Mexico State,Conference USA,fbs,58,6,14,17,21,2710,Western Illinois,MVFC,fcs,21,0,14,7,0
+401523989,2023,1,FALSE,FALSE,48159,3619,12,Arizona,Pac-12,fbs,38,7,7,21,3,2464,Northern Arizona,Big Sky,fcs,3,0,3,0,0
+401520152,2023,1,FALSE,FALSE,59006,3801,252,BYU,Big 12,fbs,14,7,0,0,7,2534,Sam Houston State,Conference USA,fbs,0,0,0,0,0
+401532571,2023,1,FALSE,FALSE,22345,7311,21,San Diego State,Mountain West,fbs,36,10,10,9,7,304,Idaho State,Big Sky,fcs,28,3,10,0,15
+401523995,2023,1,FALSE,FALSE,43705,1056,26,UCLA,Pac-12,fbs,27,7,7,0,13,324,Coastal Carolina,Sun Belt,fbs,13,0,6,7,0
+401520171,2023,1,FALSE,TRUE,53026,6577,164,Rutgers,Big Ten,fbs,24,7,10,7,0,77,Northwestern,Big Ten,fbs,7,0,0,0,7
+401532573,2023,1,FALSE,FALSE,20337,3935,23,San José State,Mountain West,fbs,17,0,3,0,14,204,Oregon State,Pac-12,fbs,42,7,14,7,14
+401520182,2023,1,TRUE,FALSE,65429,4013,52,Florida State,ACC,fbs,45,7,7,10,21,99,LSU,SEC,fbs,24,7,10,0,7
+401525468,2023,1,FALSE,TRUE,31638,3982,150,Duke,ACC,fbs,28,3,3,7,15,228,Clemson,ACC,fbs,7,0,7,0,0
+401525469,2023,2,FALSE,FALSE,45273,3873,97,Louisville,ACC,fbs,56,7,21,14,14,93,Murray State,MVFC,fcs,0,0,0,0,0
+401520193,2023,2,FALSE,FALSE,42775,3830,84,Indiana,Big Ten,fbs,41,21,3,7,10,282,Indiana State,MVFC,fcs,7,0,7,0,0
+401520195,2023,2,FALSE,FALSE,45809,3833,2305,Kansas,Big 12,fbs,34,14,14,6,0,356,Illinois,Big Ten,fbs,23,0,7,8,8
+401520216,2023,2,FALSE,FALSE,28363,3630,154,Wake Forest,ACC,fbs,36,3,21,3,9,238,Vanderbilt,SEC,fbs,20,0,14,0,6
+401520191,2023,2,FALSE,FALSE,92746,3917,61,Georgia,SEC,fbs,45,0,31,14,0,2050,Ball State,Mid-American,fbs,3,0,0,0,3
+401520185,2023,2,FALSE,FALSE,,3841,349,Army,FBS Independents,fbs,57,15,21,7,14,2169,Delaware State,MEAC,fcs,0,0,0,0,0
+401520208,2023,2,FALSE,FALSE,102897,3861,194,Ohio State,Big Ten,fbs,35,14,14,7,0,2754,Youngstown State,MVFC,fcs,7,7,0,0,0
+401520209,2023,2,FALSE,FALSE,108575,3632,213,Penn State,Big Ten,fbs,63,14,21,21,7,48,Delaware,CAA,fcs,7,7,0,0,0
+401525490,2023,2,FALSE,FALSE,40122,3615,103,Boston College,ACC,fbs,31,7,17,0,7,107,Holy Cross,Patriot,fcs,28,0,14,7,7
+401523999,2023,2,FALSE,FALSE,43732,4727,239,Baylor,Big 12,fbs,13,0,10,3,0,254,Utah,Pac-12,fbs,20,0,3,3,14
+401525829,2023,2,FALSE,FALSE,51940,3636,2306,Kansas State,Big 12,fbs,42,7,14,7,14,2653,Troy,Sun Belt,fbs,13,0,10,0,3
+401520188,2023,2,FALSE,FALSE,53241,3726,38,Colorado,Pac-12,fbs,36,0,13,10,13,158,Nebraska,Big Ten,fbs,14,0,0,7,7
+401520215,2023,2,FALSE,FALSE,65632,3799,259,Virginia Tech,ACC,fbs,17,0,17,0,0,2509,Purdue,Big Ten,fbs,24,7,10,0,7
+401525498,2023,2,FALSE,FALSE,56508,3923,258,Virginia,ACC,fbs,35,7,7,21,0,256,James Madison,Sun Belt,fbs,36,17,0,7,12
+401525436,2023,2,FALSE,FALSE,56919,3670,152,NC State,ACC,fbs,24,0,7,10,7,87,Notre Dame,FBS Independents,fbs,45,3,14,7,21
+401525494,2023,2,FALSE,FALSE,31452,721,59,Georgia Tech,ACC,fbs,48,14,14,17,3,2569,South Carolina State,MEAC,fcs,13,0,6,7,0
+401532396,2023,2,FALSE,FALSE,17302,3786,2117,Central Michigan,Mid-American,fbs,45,7,21,7,10,160,New Hampshire,CAA,fcs,42,7,14,7,14
+401532400,2023,2,FALSE,FALSE,12312,3700,189,Bowling Green,Mid-American,fbs,38,7,14,10,7,2197,Eastern Illinois,Big South-OVC,fcs,15,6,6,0,3
+401525491,2023,2,FALSE,FALSE,81500,3836,228,Clemson,ACC,fbs,66,14,10,28,14,2127,Charleston Southern,Big South-OVC,fcs,17,14,3,0,0
+401525828,2023,2,FALSE,FALSE,60834,3801,252,BYU,Big 12,fbs,41,6,21,7,7,253,Southern Utah,UAC,fcs,16,3,0,7,6
+401520196,2023,2,FALSE,FALSE,61876,3683,96,Kentucky,SEC,fbs,28,0,7,14,7,2198,Eastern Kentucky,UAC,fcs,17,7,0,3,7
+401520194,2023,2,FALSE,FALSE,61500,3772,66,Iowa State,Big 12,fbs,13,0,3,0,10,2294,Iowa,Big Ten,fbs,20,3,14,3,0
+401531395,2023,2,FALSE,FALSE,49342,3604,2636,UT San Antonio,American Athletic,fbs,20,3,7,7,3,326,Texas State,Sun Belt,fbs,13,0,10,0,3
+401526833,2023,2,FALSE,FALSE,9207,3985,113,UMass,FBS Independents,fbs,28,0,7,14,7,193,Miami (OH),Mid-American,fbs,41,21,7,3,10
+401525497,2023,2,FALSE,FALSE,32637,1964,183,Syracuse,ACC,fbs,48,17,28,3,0,2711,Western Michigan,Mid-American,fbs,7,7,0,0,0
+401520207,2023,2,FALSE,FALSE,14851,3911,77,Northwestern,Big Ten,fbs,38,7,0,21,10,2638,UTEP,Conference USA,fbs,7,7,0,0,0
+401520201,2023,2,FALSE,FALSE,48792,3948,2390,Miami,ACC,fbs,48,7,14,10,17,245,Texas A&M,SEC,fbs,33,10,7,9,7
+401520214,2023,2,FALSE,FALSE,30000,4729,2655,Tulane,American Athletic,fbs,20,7,10,0,3,145,Ole Miss,SEC,fbs,37,7,3,7,20
+401531432,2023,2,FALSE,FALSE,29789,3852,2426,Navy,American Athletic,fbs,24,7,10,0,7,2681,Wagner,NEC,fcs,0,0,0,0,0
+401532397,2023,2,FALSE,FALSE,13114,3764,2459,Northern Illinois,Mid-American,fbs,11,0,0,3,8,79,Southern Illinois,MVFC,fcs,14,7,0,7,0
+401520203,2023,2,FALSE,FALSE,,3936,127,Michigan State,Big Ten,fbs,45,7,10,21,7,257,Richmond,CAA,fcs,14,0,0,0,14
+401532398,2023,2,FALSE,FALSE,22742,3739,2649,Toledo,Mid-American,fbs,71,22,28,7,14,2640,Texas Southern,SWAC,fcs,3,0,3,0,0
+401520202,2023,2,FALSE,FALSE,109482,3558,130,Michigan,Big Ten,fbs,35,7,14,14,0,2439,UNLV,Mountain West,fbs,7,0,0,0,7
+401532578,2023,2,FALSE,FALSE,14224,3935,23,San José State,Mountain West,fbs,59,17,21,21,0,13,Cal Poly,Big Sky,fcs,3,0,3,0,0
+401520184,2023,2,FALSE,FALSE,73173,3887,8,Arkansas,SEC,fbs,28,7,7,7,7,2309,Kent State,Mid-American,fbs,6,3,3,0,0
+401531411,2023,2,FALSE,FALSE,38211,3699,151,East Carolina,American Athletic,fbs,13,0,10,3,0,276,Marshall,Sun Belt,fbs,31,0,10,0,21
+401532580,2023,2,FALSE,FALSE,22121,3984,2751,Wyoming,Mountain West,fbs,31,14,7,10,0,2502,Portland State,Big Sky,fcs,17,0,10,0,7
+401531844,2023,2,FALSE,FALSE,15237,6526,6,South Alabama,Sun Belt,fbs,35,0,7,14,14,2545,Southeastern Louisiana,Southland,fcs,17,0,7,0,10
+401524004,2023,2,FALSE,FALSE,63128,3765,264,Washington,Pac-12,fbs,43,14,8,14,7,202,Tulsa,American Athletic,fbs,10,3,0,0,7
+401520213,2023,2,FALSE,FALSE,101915,3853,2633,Tennessee,SEC,fbs,30,3,10,10,7,2046,Austin Peay,UAC,fcs,13,3,3,0,7
+401525495,2023,2,FALSE,FALSE,50500,3787,153,North Carolina,ACC,fbs,40,0,10,10,7,2026,Appalachian State,Sun Belt,fbs,34,0,10,7,10
+401531842,2023,2,FALSE,TRUE,18154,3918,295,Old Dominion,Sun Belt,fbs,38,7,10,14,7,309,Louisiana,Sun Belt,fbs,31,10,7,0,14
+401525492,2023,2,FALSE,FALSE,17481,3982,150,Duke,ACC,fbs,42,7,14,14,7,322,Lafayette,Patriot,fcs,7,7,0,0,0
+401520198,2023,2,FALSE,TRUE,20123,3992,2335,Liberty,Conference USA,fbs,33,7,16,10,0,166,New Mexico State,Conference USA,fbs,17,7,10,0,0
+401531378,2023,2,FALSE,FALSE,20103,3608,290,Georgia Southern,Sun Belt,fbs,49,14,14,7,14,5,UAB,American Athletic,fbs,35,0,22,7,6
+401531419,2023,2,FALSE,FALSE,17934,3715,2226,Florida Atlantic,American Athletic,fbs,10,0,10,0,0,195,Ohio,Mid-American,fbs,17,0,7,7,3
+401532399,2023,2,FALSE,FALSE,8213,3768,2006,Akron,Mid-American,fbs,24,3,14,0,7,2415,Morgan State,MEAC,fcs,21,0,7,14,0
+401525830,2023,2,FALSE,FALSE,84186,3835,201,Oklahoma,Big 12,fbs,28,7,7,0,14,2567,SMU,American Athletic,fbs,11,3,0,0,8
+401525833,2023,2,FALSE,FALSE,50037,3842,277,West Virginia,Big 12,fbs,56,7,28,7,14,2184,Duquesne,NEC,fcs,17,7,3,7,0
+401532401,2023,2,FALSE,FALSE,15854,3965,2084,Buffalo,Mid-American,fbs,37,14,7,9,7,2230,Fordham,Patriot,fcs,40,3,17,6,14
+401520189,2023,2,FALSE,FALSE,15754,218,2229,Florida International,Conference USA,fbs,46,7,10,21,8,249,North Texas,American Athletic,fbs,39,10,10,7,12
+401525496,2023,2,FALSE,FALSE,49398,3752,221,Pittsburgh,ACC,fbs,21,7,0,0,14,2132,Cincinnati,Big 12,fbs,27,10,10,7,0
+401520192,2023,2,FALSE,FALSE,15186,4246,2247,Georgia State,Sun Belt,fbs,35,7,14,7,7,41,Connecticut,FBS Independents,fbs,14,0,0,0,14
+401520183,2023,2,FALSE,FALSE,100077,3657,333,Alabama,SEC,fbs,24,0,6,10,8,251,Texas,Big 12,fbs,34,3,10,0,21
+401531427,2023,2,FALSE,FALSE,18724,3625,2032,Arkansas State,Sun Belt,fbs,3,0,3,0,0,235,Memphis,American Athletic,fbs,37,3,21,7,6
+401531422,2023,2,FALSE,FALSE,36495,3886,58,South Florida,American Athletic,fbs,38,14,10,7,7,50,Florida A&M,SWAC,fcs,24,7,7,3,7
+401532576,2023,2,FALSE,FALSE,19852,3816,2440,Nevada,Mountain West,fbs,6,3,3,0,0,70,Idaho,Big Sky,fcs,33,14,3,10,6
+401524002,2023,2,FALSE,FALSE,,3784,2641,Texas Tech,Big 12,fbs,30,7,6,14,3,2483,Oregon,Pac-12,fbs,38,15,3,0,20
+401520187,2023,2,FALSE,FALSE,16006,3654,324,Coastal Carolina,Sun Belt,fbs,30,7,3,13,7,55,Jacksonville State,Conference USA,fbs,16,6,3,0,7
+401520197,2023,2,FALSE,FALSE,19152,3776,2348,Louisiana Tech,Conference USA,fbs,51,10,21,20,0,2466,Northwestern State,Southland,fcs,21,7,7,7,0
+401520206,2023,2,FALSE,FALSE,57645,3838,142,Missouri,SEC,fbs,23,3,7,6,7,2393,Middle Tennessee,Conference USA,fbs,19,0,7,3,9
+401520218,2023,2,FALSE,FALSE,20712,3796,98,Western Kentucky,Conference USA,fbs,52,24,7,7,14,2277,Houston Christian,Southland,fcs,22,0,14,0,8
+401525827,2023,2,FALSE,FALSE,36447,3653,68,Boise State,Mountain West,fbs,16,7,3,0,6,2116,UCF,Big 12,fbs,18,3,6,0,9
+401525831,2023,2,FALSE,FALSE,23425,3895,242,Rice,American Athletic,fbs,43,21,7,0,0,248,Houston,Big 12,fbs,41,0,7,0,21
+401524001,2023,2,FALSE,FALSE,32017,7311,21,San Diego State,Mountain West,fbs,10,7,3,0,0,26,UCLA,Pac-12,fbs,35,7,21,7,0
+401520199,2023,2,FALSE,FALSE,97735,3958,99,LSU,SEC,fbs,72,14,28,14,16,2755,Grambling,SWAC,fcs,10,10,0,0,0
+401520190,2023,2,FALSE,FALSE,88163,3634,57,Florida,SEC,fbs,49,13,13,16,7,2377,McNeese,Southland,fcs,7,0,0,0,7
+401520212,2023,2,FALSE,FALSE,78281,3994,2579,South Carolina,SEC,fbs,47,7,20,13,7,231,Furman,Southern,fcs,21,7,7,0,7
+401520200,2023,2,FALSE,FALSE,32804,3665,120,Maryland,Big Ten,fbs,38,0,9,8,21,2429,Charlotte,American Athletic,fbs,20,14,0,0,6
+401520204,2023,2,FALSE,FALSE,48101,3953,135,Minnesota,Big Ten,fbs,25,0,10,10,5,2199,Eastern Michigan,Mid-American,fbs,6,0,6,0,0
+401520205,2023,2,FALSE,FALSE,51648,3693,344,Mississippi State,SEC,fbs,31,14,0,7,3,12,Arizona,Pac-12,fbs,24,0,7,7,10
+401520210,2023,2,FALSE,FALSE,45317,6577,164,Rutgers,Big Ten,fbs,36,7,6,0,23,218,Temple,American Athletic,fbs,7,0,0,0,7
+401520217,2023,2,FALSE,FALSE,33024,3820,265,Washington State,Pac-12,fbs,31,7,17,0,7,275,Wisconsin,Big Ten,fbs,22,3,6,13,0
+401532579,2023,2,FALSE,FALSE,20034,3905,328,Utah State,Mountain West,fbs,78,7,44,14,13,304,Idaho State,Big Sky,fcs,28,7,7,7,7
+401532577,2023,2,FALSE,FALSE,17279,3971,167,New Mexico,Mountain West,fbs,56,7,21,21,7,2635,Tennessee Tech,Big South-OVC,fcs,10,7,3,0,0
+401520211,2023,2,TRUE,FALSE,25121,3891,2534,Sam Houston State,Conference USA,fbs,3,0,0,3,0,2005,Air Force,Mountain West,fbs,13,0,3,0,10
+401525832,2023,2,FALSE,FALSE,45010,3616,2628,TCU,Big 12,fbs,41,14,10,0,17,2447,Nicholls,Southland,fcs,6,0,3,3,0
+401531843,2023,2,FALSE,FALSE,13154,3817,2433,Louisiana Monroe,Sun Belt,fbs,24,7,14,0,3,2320,Lamar,Southland,fcs,14,0,0,0,14
+401525493,2023,2,FALSE,FALSE,74467,3697,52,Florida State,ACC,fbs,66,14,17,21,14,2572,Southern Mississippi,Sun Belt,fbs,13,0,3,7,3
+401524000,2023,2,FALSE,FALSE,35728,3893,204,Oregon State,Pac-12,fbs,55,14,24,10,7,302,UC Davis,Big Sky,fcs,7,0,0,0,7
+401532574,2023,2,FALSE,FALSE,41031,3660,278,Fresno State,Mountain West,fbs,34,7,7,7,3,331,Eastern Washington,Big Sky,fcs,31,3,0,14,7
+401520186,2023,2,FALSE,FALSE,44141,3831,25,California,Pac-12,fbs,10,3,7,0,0,2,Auburn,SEC,fbs,14,0,7,0,7
+401524003,2023,2,FALSE,TRUE,67213,477,30,USC,Pac-12,fbs,56,21,28,0,7,24,Stanford,Pac-12,fbs,10,0,3,0,7
+401523998,2023,2,FALSE,FALSE,42569,3947,9,Arizona State,Pac-12,fbs,15,7,8,0,0,197,Oklahoma State,Big 12,fbs,27,0,10,7,10
+401532575,2023,2,FALSE,FALSE,9485,7220,62,Hawai'i,Mountain West,fbs,31,10,7,7,7,399,Albany,CAA,fcs,20,7,10,3,0
+401531428,2023,3,FALSE,TRUE,25551,3805,235,Memphis,American Athletic,fbs,28,7,7,7,7,2426,Navy,American Athletic,fbs,24,14,0,7,3
+401525499,2023,3,FALSE,FALSE,40077,3948,2390,Miami,ACC,fbs,48,14,20,7,7,2065,Bethune-Cookman,SWAC,fcs,7,0,0,0,7
+401531396,2023,3,FALSE,FALSE,27138,3604,2636,UT San Antonio,American Athletic,fbs,29,0,14,7,8,349,Army,FBS Independents,fbs,37,14,6,10,7
+401520231,2023,3,FALSE,FALSE,37041,3665,120,Maryland,Big Ten,fbs,42,7,7,7,21,258,Virginia,ACC,fbs,14,14,0,0,0
+401532581,2023,3,FALSE,TRUE,18400,3713,2005,Air Force,Mountain West,fbs,39,22,10,7,0,328,Utah State,Mountain West,fbs,21,0,7,7,7
+401525834,2023,3,FALSE,FALSE,43732,4727,239,Baylor,Big 12,fbs,30,7,9,7,7,112358,Long Island University,NEC,fcs,7,0,7,0,0
+401525504,2023,3,FALSE,FALSE,18276,3918,295,Old Dominion,Sun Belt,fbs,24,0,17,7,0,154,Wake Forest,ACC,fbs,27,0,0,13,14
+401525500,2023,3,FALSE,TRUE,41383,3615,103,Boston College,ACC,fbs,29,7,3,6,13,52,Florida State,ACC,fbs,31,3,14,14,0
+401520235,2023,3,FALSE,TRUE,60084,3693,344,Mississippi State,SEC,fbs,14,0,7,0,7,99,LSU,SEC,fbs,41,10,14,10,7
+401520249,2023,3,FALSE,FALSE,75610,347,275,Wisconsin,Big Ten,fbs,35,0,7,21,7,290,Georgia Southern,Sun Belt,fbs,14,0,7,7,0
+401520230,2023,3,TRUE,FALSE,,3812,84,Indiana,Big Ten,fbs,14,0,0,14,0,97,Louisville,ACC,fbs,21,7,14,0,0
+401520226,2023,3,FALSE,TRUE,49099,3832,356,Illinois,Big Ten,fbs,13,0,7,0,6,213,Penn State,Big Ten,fbs,30,6,10,7,7
+401532404,2023,3,FALSE,FALSE,10731,3696,2309,Kent State,Mid-American,fbs,38,14,7,17,0,2115,Central Connecticut,NEC,fcs,10,0,0,0,10
+401520236,2023,3,FALSE,FALSE,62621,3838,142,Missouri,SEC,fbs,30,10,7,0,13,2306,Kansas State,Big 12,fbs,27,7,7,10,3
+401525838,2023,3,FALSE,FALSE,21991,3876,195,Ohio,Mid-American,fbs,10,0,0,7,3,66,Iowa State,Big 12,fbs,7,0,0,0,7
+401532582,2023,3,FALSE,FALSE,35610,3653,68,Boise State,Mountain West,fbs,42,7,14,7,14,155,North Dakota,MVFC,fcs,18,0,6,12,0
+401520222,2023,3,FALSE,FALSE,13020,3965,2084,Buffalo,Mid-American,fbs,27,0,14,7,6,2335,Liberty,Conference USA,fbs,55,10,14,17,14
+401526834,2023,3,FALSE,FALSE,16138,3912,2199,Eastern Michigan,Mid-American,fbs,19,3,7,0,9,113,UMass,FBS Independents,fbs,17,0,3,7,7
+401525502,2023,3,FALSE,FALSE,56919,3670,152,NC State,ACC,fbs,45,21,10,7,7,2678,VMI,Southern,fcs,7,0,0,7,0
+401532402,2023,3,FALSE,FALSE,15054,3919,2050,Ball State,Mid-American,fbs,45,0,10,7,28,282,Indiana State,MVFC,fcs,7,0,0,7,0
+401524012,2023,3,FALSE,FALSE,51532,587,254,Utah,Pac-12,fbs,31,7,10,14,0,2692,Weber State,Big Sky,fcs,7,0,7,0,0
+401531388,2023,3,FALSE,FALSE,10932,3806,218,Temple,American Athletic,fbs,41,14,14,10,3,2450,Norfolk State,MEAC,fcs,9,0,7,0,2
+401525437,2023,3,FALSE,FALSE,77622,3855,87,Notre Dame,FBS Independents,fbs,41,14,7,10,10,2117,Central Michigan,Mid-American,fbs,17,7,7,3,0
+401520243,2023,3,FALSE,FALSE,52657,6577,164,Rutgers,Big Ten,fbs,35,7,14,0,14,259,Virginia Tech,ACC,fbs,16,0,3,7,6
+401524009,2023,3,FALSE,FALSE,35591,3893,204,Oregon State,Pac-12,fbs,26,3,9,7,7,21,San Diego State,Mountain West,fbs,9,0,3,0,6
+401520227,2023,3,FALSE,FALSE,69250,3793,2294,Iowa,Big Ten,fbs,41,0,14,17,10,2711,Western Michigan,Mid-American,fbs,10,7,3,0,0
+401520246,2023,3,FALSE,FALSE,20405,3892,41,Connecticut,FBS Independents,fbs,17,3,0,7,7,2229,Florida International,Conference USA,fbs,24,7,17,0,0
+401531412,2023,3,FALSE,FALSE,40168,3792,2026,Appalachian State,Sun Belt,fbs,43,10,6,20,7,151,East Carolina,American Athletic,fbs,28,7,14,7,0
+401520223,2023,3,FALSE,FALSE,18141,3982,150,Duke,ACC,fbs,38,7,10,14,7,77,Northwestern,Big Ten,fbs,14,0,7,0,7
+401525842,2023,3,FALSE,FALSE,30855,3674,202,Tulsa,American Athletic,fbs,17,0,14,3,0,201,Oklahoma,Big 12,fbs,66,28,10,21,7
+401520244,2023,3,FALSE,FALSE,65138,3886,58,South Florida,American Athletic,fbs,3,3,0,0,0,333,Alabama,SEC,fbs,17,0,3,7,7
+401520239,2023,3,FALSE,FALSE,45151,3787,153,North Carolina,ACC,fbs,31,7,14,3,7,135,Minnesota,Big Ten,fbs,13,0,10,3,0
+401520225,2023,3,FALSE,TRUE,92746,3917,61,Georgia,SEC,fbs,24,3,0,14,7,2579,South Carolina,SEC,fbs,14,7,7,0,0
+401524006,2023,3,FALSE,FALSE,36810,3831,25,California,Pac-12,fbs,31,0,14,14,3,70,Idaho,Big Sky,fcs,17,10,7,0,0
+401531348,2023,3,FALSE,FALSE,25038,3815,2572,Southern Mississippi,Sun Belt,fbs,3,0,0,3,0,2655,Tulane,American Athletic,fbs,21,7,0,14,0
+401520245,2023,3,FALSE,FALSE,93090,3795,245,Texas A&M,SEC,fbs,47,10,17,10,10,2433,Louisiana Monroe,Sun Belt,fbs,3,0,3,0,0
+401520240,2023,3,FALSE,FALSE,100217,3861,194,Ohio State,Big Ten,fbs,63,7,35,7,14,98,Western Kentucky,Conference USA,fbs,10,3,7,0,0
+401524011,2023,3,FALSE,FALSE,38343,1056,26,UCLA,Pac-12,fbs,59,35,10,14,0,2428,North Carolina Central,MEAC,fcs,7,0,0,0,7
+401520233,2023,3,FALSE,FALSE,70528,3936,127,Michigan State,Big Ten,fbs,7,0,0,0,7,264,Washington,Pac-12,fbs,41,14,21,6,0
+401524013,2023,3,FALSE,FALSE,23595,3820,265,Washington State,Pac-12,fbs,64,22,21,14,7,2458,Northern Colorado,Big Sky,fcs,21,0,7,7,7
+401531403,2023,3,FALSE,FALSE,14410,4418,2429,Charlotte,American Athletic,fbs,25,0,10,15,0,2247,Georgia State,Sun Belt,fbs,41,7,13,14,7
+401525843,2023,3,FALSE,FALSE,44206,3652,2116,UCF,Big 12,fbs,48,17,17,7,7,222,Villanova,CAA,fcs,14,0,0,0,14
+401525841,2023,3,FALSE,FALSE,56200,3784,2641,Texas Tech,Big 12,fbs,41,21,3,10,7,2627,Tarleton State,UAC,fcs,3,0,0,0,3
+401520237,2023,3,FALSE,FALSE,86875,3834,158,Nebraska,Big Ten,fbs,35,7,7,7,14,2459,Northern Illinois,Mid-American,fbs,11,3,0,0,8
+401531438,2023,3,FALSE,FALSE,24489,3735,2567,SMU,American Athletic,fbs,69,14,28,21,6,2504,Prairie View,SWAC,fcs,0,0,0,0,0
+401531441,2023,3,FALSE,FALSE,18103,3895,242,Rice,American Athletic,fbs,59,28,14,10,7,2640,Texas Southern,SWAC,fcs,7,0,7,0,0
+401531845,2023,3,FALSE,FALSE,18116,3654,324,Coastal Carolina,Sun Belt,fbs,66,21,24,21,0,2184,Duquesne,NEC,fcs,7,0,0,7,0
+401520224,2023,3,FALSE,TRUE,90751,3634,57,Florida,SEC,fbs,29,6,20,0,3,2633,Tennessee,SEC,fbs,16,7,0,3,6
+401520247,2023,3,FALSE,FALSE,22582,6501,2439,UNLV,Mountain West,fbs,40,0,20,10,10,238,Vanderbilt,SEC,fbs,37,10,7,0,20
+401520229,2023,3,FALSE,FALSE,17434,3776,2348,Louisiana Tech,Conference USA,fbs,37,0,14,0,23,249,North Texas,American Athletic,fbs,40,10,13,7,10
+401532403,2023,3,FALSE,FALSE,20039,3739,2649,Toledo,Mid-American,fbs,21,0,7,14,0,23,San José State,Mountain West,fbs,17,0,10,7,0
+401531848,2023,3,FALSE,TRUE,26634,3975,2653,Troy,Sun Belt,fbs,14,0,7,0,7,256,James Madison,Sun Belt,fbs,16,3,10,3,0
+401531379,2023,3,FALSE,FALSE,21673,7221,5,UAB,American Athletic,fbs,21,0,0,3,18,309,Louisiana,Sun Belt,fbs,41,0,24,10,7
+401525839,2023,3,FALSE,FALSE,53855,3646,197,Oklahoma State,Big 12,fbs,7,0,0,0,7,6,South Alabama,Sun Belt,fbs,33,10,13,0,10
+401525835,2023,3,FALSE,FALSE,38193,3854,2132,Cincinnati,Big 12,fbs,24,10,3,3,8,193,Miami (OH),Mid-American,fbs,31,7,7,7,3
+401531846,2023,3,FALSE,FALSE,14327,3625,2032,Arkansas State,Sun Belt,fbs,31,17,0,7,7,2619,Stony Brook,CAA,fcs,7,0,0,0,7
+401520234,2023,3,FALSE,FALSE,16605,3725,2393,Middle Tennessee,Conference USA,fbs,35,14,7,7,7,93,Murray State,MVFC,fcs,14,0,7,0,7
+401520221,2023,3,FALSE,FALSE,88043,3785,2,Auburn,SEC,fbs,45,0,17,14,14,2535,Samford,Southern,fcs,13,0,0,13,0
+401520232,2023,3,FALSE,FALSE,109955,3558,130,Michigan,Big Ten,fbs,31,7,7,17,0,189,Bowling Green,Mid-American,fbs,6,0,6,0,0
+401520220,2023,3,FALSE,FALSE,74821,3887,8,Arkansas,SEC,fbs,31,14,10,7,0,252,BYU,Big 12,fbs,38,14,7,10,7
+401525503,2023,3,FALSE,FALSE,61106,3842,277,West Virginia,Big 12,fbs,17,0,7,10,0,221,Pittsburgh,ACC,fbs,6,3,3,0,0
+401520242,2023,3,FALSE,FALSE,61441,3907,2509,Purdue,Big Ten,fbs,20,0,7,7,6,183,Syracuse,ACC,fbs,35,7,14,0,14
+401520241,2023,3,FALSE,FALSE,64150,3974,145,Ole Miss,SEC,fbs,48,10,0,14,24,59,Georgia Tech,ACC,fbs,23,0,3,7,13
+401520228,2023,3,FALSE,FALSE,59456,3683,96,Kentucky,SEC,fbs,35,7,7,7,14,2006,Akron,Mid-American,fbs,3,0,0,3,0
+401524010,2023,3,FALSE,FALSE,23848,3940,24,Stanford,Pac-12,fbs,23,7,7,3,6,16,Sacramento State,Big Sky,fcs,30,3,14,3,10
+401524008,2023,3,FALSE,FALSE,52779,3626,2483,Oregon,Pac-12,fbs,55,24,10,14,7,62,Hawai'i,Mountain West,fbs,10,0,3,0,7
+401525840,2023,3,FALSE,FALSE,101777,3910,251,Texas,Big 12,fbs,31,3,7,0,21,2751,Wyoming,Mountain West,fbs,10,7,0,3,0
+401525836,2023,3,FALSE,TRUE,36049,4728,248,Houston,Big 12,fbs,13,3,10,0,0,2628,TCU,Big 12,fbs,36,7,13,9,7
+401520238,2023,3,FALSE,FALSE,27414,3971,167,New Mexico,Mountain West,fbs,17,3,7,0,7,166,New Mexico State,Conference USA,fbs,27,0,17,3,7
+401525501,2023,3,FALSE,FALSE,81295,3836,228,Clemson,ACC,fbs,48,20,14,7,7,2226,Florida Atlantic,American Athletic,fbs,14,0,0,0,14
+401531847,2023,3,FALSE,FALSE,24118,3644,326,Texas State,Sun Belt,fbs,77,21,35,7,14,2296,Jackson State,SWAC,fcs,34,6,14,7,7
+401524007,2023,3,FALSE,FALSE,53141,3726,38,Colorado,Pac-12,fbs,43,14,0,0,14,36,Colorado State,Mountain West,fbs,35,14,7,0,7
+401524005,2023,3,FALSE,FALSE,46723,3947,9,Arizona State,Pac-12,fbs,0,0,0,0,0,278,Fresno State,Mountain West,fbs,29,10,6,10,3
+401525837,2023,3,FALSE,FALSE,44182,3816,2440,Nevada,Mountain West,fbs,24,0,10,7,7,2305,Kansas,Big 12,fbs,31,7,3,14,7
+401520219,2023,3,FALSE,FALSE,44182,3619,12,Arizona,Pac-12,fbs,31,0,14,10,7,2638,UTEP,Conference USA,fbs,10,0,3,0,7
+401531849,2023,4,FALSE,TRUE,,3654,324,Coastal Carolina,Sun Belt,fbs,17,3,0,7,7,2247,Georgia State,Sun Belt,fbs,30,7,10,3,10
+401520266,2023,4,FALSE,TRUE,,3907,2509,Purdue,Big Ten,fbs,17,3,0,14,0,275,Wisconsin,Big Ten,fbs,38,14,7,6,11
+401525505,2023,4,FALSE,TRUE,,3923,258,Virginia,ACC,fbs,21,0,7,6,8,152,NC State,ACC,fbs,24,0,14,7,3
+401532583,2023,4,FALSE,TRUE,,7311,21,San Diego State,Mountain West,fbs,31,7,10,0,14,68,Boise State,Mountain West,fbs,34,0,17,10,7
+401532584,2023,4,FALSE,TRUE,,3935,23,San José State,Mountain West,fbs,20,6,14,0,0,2005,Air Force,Mountain West,fbs,45,3,14,7,21
+401520260,2023,4,FALSE,TRUE,,3558,130,Michigan,Big Ten,fbs,31,7,7,10,7,164,Rutgers,Big Ten,fbs,7,7,0,0,0
+401531338,2023,4,FALSE,FALSE,,3764,2459,Northern Illinois,Mid-American,fbs,14,0,7,7,0,202,Tulsa,American Athletic,fbs,22,2,7,3,10
+401520271,2023,4,FALSE,FALSE,,3975,2653,Troy,Sun Belt,fbs,27,0,10,10,7,98,Western Kentucky,Conference USA,fbs,24,7,0,7,10
+401525511,2023,4,FALSE,FALSE,,3775,276,Marshall,Sun Belt,fbs,24,0,17,7,0,259,Virginia Tech,ACC,fbs,17,7,3,0,7
+401520274,2023,4,FALSE,TRUE,,3973,238,Vanderbilt,SEC,fbs,28,0,10,3,15,96,Kentucky,SEC,fbs,45,21,3,7,14
+401520268,2023,4,FALSE,FALSE,,1964,183,Syracuse,ACC,fbs,29,0,3,13,13,349,Army,FBS Independents,fbs,16,7,3,0,6
+401525507,2023,4,FALSE,TRUE,,3836,228,Clemson,ACC,fbs,24,3,14,7,0,52,Florida State,ACC,fbs,31,0,14,10,0
+401525849,2023,4,FALSE,FALSE,,3616,2628,TCU,Big 12,fbs,34,7,7,13,7,2567,SMU,American Athletic,fbs,17,3,7,0,7
+401525845,2023,4,FALSE,TRUE,,3854,2132,Cincinnati,Big 12,fbs,6,3,0,3,0,201,Oklahoma,Big 12,fbs,20,7,3,7,3
+401520270,2023,4,FALSE,TRUE,,3795,245,Texas A&M,SEC,fbs,27,6,0,14,7,2,Auburn,SEC,fbs,10,0,3,0,7
+401532406,2023,4,FALSE,TRUE,,3739,2649,Toledo,Mid-American,fbs,49,14,0,14,21,2711,Western Michigan,Mid-American,fbs,31,7,17,0,7
+401531871,2023,4,FALSE,FALSE,,3919,2050,Ball State,Mid-American,fbs,3,0,0,0,3,290,Georgia Southern,Sun Belt,fbs,40,14,9,10,7
+401520263,2023,4,FALSE,FALSE,,3834,158,Nebraska,Big Ten,fbs,28,0,7,7,14,2348,Louisiana Tech,Conference USA,fbs,14,0,7,0,7
+401520261,2023,4,FALSE,TRUE,,3936,127,Michigan State,Big Ten,fbs,9,0,3,6,0,120,Maryland,Big Ten,fbs,31,7,14,0,10
+401520272,2023,4,FALSE,FALSE,,3892,41,Connecticut,FBS Independents,fbs,7,0,0,0,7,150,Duke,ACC,fbs,41,7,20,14,0
+401531873,2023,4,FALSE,FALSE,,3918,295,Old Dominion,Sun Belt,fbs,10,0,0,7,3,2837,Texas A&M-Commerce,Southland,fcs,9,0,0,3,6
+401532405,2023,4,FALSE,TRUE,,3700,189,Bowling Green,Mid-American,fbs,7,0,0,0,7,195,Ohio,Mid-American,fbs,38,21,10,7,0
+401526835,2023,4,FALSE,FALSE,,3985,113,UMass,FBS Independents,fbs,31,0,14,3,11,167,New Mexico,Mountain West,fbs,34,14,14,0,0
+401525850,2023,4,FALSE,TRUE,,3842,277,West Virginia,Big 12,fbs,20,7,6,0,7,2641,Texas Tech,Big 12,fbs,13,3,0,0,10
+401525847,2023,4,FALSE,TRUE,,3833,2305,Kansas,Big 12,fbs,38,14,0,14,10,252,BYU,Big 12,fbs,27,7,10,3,7
+401525509,2023,4,FALSE,FALSE,,3806,218,Temple,American Athletic,fbs,7,0,7,0,0,2390,Miami,ACC,fbs,41,7,17,14,3
+401525506,2023,4,FALSE,TRUE,,3873,97,Louisville,ACC,fbs,56,14,28,14,0,103,Boston College,ACC,fbs,28,0,14,7,7
+401520250,2023,4,FALSE,TRUE,,3657,333,Alabama,SEC,fbs,24,3,3,11,7,145,Ole Miss,SEC,fbs,10,7,0,3,0
+401532408,2023,4,FALSE,FALSE,,3996,193,Miami (OH),Mid-American,fbs,62,17,17,21,7,2169,Delaware State,MEAC,fcs,20,7,6,7,0
+401520255,2023,4,FALSE,FALSE,,3832,356,Illinois,Big Ten,fbs,23,0,14,9,0,2226,Florida Atlantic,American Athletic,fbs,17,10,0,0,7
+401524015,2023,4,FALSE,TRUE,,3626,2483,Oregon,Pac-12,fbs,42,13,22,7,0,38,Colorado,Pac-12,fbs,6,0,0,0,6
+401524017,2023,4,FALSE,TRUE,,587,254,Utah,Pac-12,fbs,14,7,7,0,0,26,UCLA,Pac-12,fbs,7,0,0,0,7
+401520269,2023,4,FALSE,FALSE,,3853,2633,Tennessee,SEC,fbs,45,14,17,0,14,2636,UT San Antonio,American Athletic,fbs,14,0,0,14,0
+401531423,2023,4,FALSE,TRUE,,3886,58,South Florida,American Athletic,fbs,42,3,10,14,15,242,Rice,American Athletic,fbs,29,7,7,7,8
+401525846,2023,4,FALSE,TRUE,,3772,66,Iowa State,Big 12,fbs,34,7,13,7,7,197,Oklahoma State,Big 12,fbs,27,7,10,3,7
+401520257,2023,4,FALSE,FALSE,,3662,55,Jacksonville State,Conference USA,fbs,21,7,7,7,0,2199,Eastern Michigan,Mid-American,fbs,0,0,0,0,0
+401531876,2023,4,FALSE,FALSE,,6526,6,South Alabama,Sun Belt,fbs,30,14,0,3,13,2117,Central Michigan,Mid-American,fbs,34,0,13,7,14
+401531413,2023,4,FALSE,FALSE,,3699,151,East Carolina,American Athletic,fbs,44,13,10,7,14,2241,Gardner-Webb,Big South-OVC,fcs,0,0,0,0,0
+401525508,2023,4,FALSE,TRUE,,3630,154,Wake Forest,ACC,fbs,16,3,0,6,7,59,Georgia Tech,ACC,fbs,30,7,13,0,10
+401520275,2023,4,FALSE,TRUE,,218,2229,Florida International,Conference USA,fbs,6,6,0,0,0,2335,Liberty,Conference USA,fbs,38,14,10,14,0
+401520258,2023,4,FALSE,TRUE,,3958,99,LSU,SEC,fbs,34,0,10,14,10,8,Arkansas,SEC,fbs,31,3,10,3,15
+401524019,2023,4,FALSE,TRUE,,3820,265,Washington State,Pac-12,fbs,38,14,14,7,3,204,Oregon State,Pac-12,fbs,35,7,7,0,21
+401531877,2023,4,FALSE,FALSE,,3644,326,Texas State,Sun Belt,fbs,35,0,0,21,14,2440,Nevada,Mountain West,fbs,24,10,7,0,7
+401531874,2023,4,FALSE,TRUE,,3625,2032,Arkansas State,Sun Belt,fbs,44,14,6,14,10,2572,Southern Mississippi,Sun Belt,fbs,37,7,10,10,10
+401531870,2023,4,FALSE,FALSE,,3984,2751,Wyoming,Mountain West,fbs,22,0,7,0,15,2026,Appalachian State,Sun Belt,fbs,19,6,6,0,7
+401520262,2023,4,FALSE,FALSE,,3725,2393,Middle Tennessee,Conference USA,fbs,23,10,7,0,6,36,Colorado State,Mountain West,fbs,31,10,0,7,14
+401520254,2023,4,FALSE,FALSE,,4728,248,Houston,Big 12,fbs,38,10,14,7,7,2534,Sam Houston State,Conference USA,fbs,7,7,0,0,0
+401524016,2023,4,FALSE,TRUE,,3940,24,Stanford,Pac-12,fbs,20,3,7,7,3,12,Arizona,Pac-12,fbs,21,0,7,7,7
+401531349,2023,4,FALSE,FALSE,,4729,2655,Tulane,American Athletic,fbs,36,17,10,6,3,2447,Nicholls,Southland,fcs,7,0,7,0,0
+401520251,2023,4,FALSE,FALSE,,3634,57,Florida,SEC,fbs,22,10,6,3,3,2429,Charlotte,American Athletic,fbs,7,0,7,0,0
+401520252,2023,4,FALSE,FALSE,,3917,61,Georgia,SEC,fbs,49,7,21,14,7,5,UAB,American Athletic,fbs,21,0,14,0,7
+401525844,2023,4,FALSE,TRUE,,4727,239,Baylor,Big 12,fbs,6,3,3,0,0,251,Texas,Big 12,fbs,38,7,21,10,0
+401520264,2023,4,FALSE,TRUE,,3911,77,Northwestern,Big Ten,fbs,37,0,7,3,21,135,Minnesota,Big Ten,fbs,34,7,17,7,0
+401520267,2023,4,FALSE,TRUE,,3994,2579,South Carolina,SEC,fbs,37,7,13,7,10,344,Mississippi State,SEC,fbs,30,0,17,10,3
+401521330,2023,4,FALSE,FALSE,,3855,87,Notre Dame,FBS Independents,fbs,14,0,0,7,7,194,Ohio State,Big Ten,fbs,17,0,3,7,7
+401520265,2023,4,FALSE,TRUE,,3632,213,Penn State,Big Ten,fbs,31,3,7,14,7,2294,Iowa,Big Ten,fbs,0,0,0,0,0
+401531875,2023,4,FALSE,FALSE,,3666,309,Louisiana,Sun Belt,fbs,45,7,3,21,14,2084,Buffalo,Mid-American,fbs,38,0,0,21,17
+401520256,2023,4,FALSE,FALSE,,3830,84,Indiana,Big Ten,fbs,29,0,7,7,3,2006,Akron,Mid-American,fbs,27,0,3,7,7
+401520259,2023,4,TRUE,FALSE,,3494,142,Missouri,SEC,fbs,34,7,10,7,10,235,Memphis,American Athletic,fbs,27,10,0,7,10
+401525848,2023,4,FALSE,TRUE,,3636,2306,Kansas State,Big 12,fbs,44,7,14,10,13,2116,UCF,Big 12,fbs,31,10,7,7,7
+401525510,2023,4,FALSE,TRUE,,3752,221,Pittsburgh,ACC,fbs,24,7,10,7,0,153,North Carolina,ACC,fbs,41,7,21,13,0
+401531872,2023,4,FALSE,FALSE,,3905,328,Utah State,Mountain West,fbs,38,0,17,14,7,256,James Madison,Sun Belt,fbs,45,17,21,0,7
+401520273,2023,4,FALSE,FALSE,,3946,2638,UTEP,Conference USA,fbs,28,7,7,7,7,2439,UNLV,Mountain West,fbs,45,14,14,0,17
+401532407,2023,4,FALSE,FALSE,,3660,278,Fresno State,Mountain West,fbs,53,22,14,14,3,2309,Kent State,Mid-American,fbs,10,7,3,0,0
+401524014,2023,4,FALSE,TRUE,,3947,9,Arizona State,Pac-12,fbs,28,7,6,8,7,30,USC,Pac-12,fbs,42,14,7,6,15
+401524018,2023,4,FALSE,TRUE,,3765,264,Washington,Pac-12,fbs,59,24,21,7,7,25,California,Pac-12,fbs,32,6,6,7,13
+401520253,2023,4,FALSE,FALSE,,7220,62,Hawai'i,Mountain West,fbs,20,0,3,7,10,166,New Mexico State,Conference USA,fbs,17,7,10,0,0
+401520277,2023,5,FALSE,TRUE,,3796,98,Western Kentucky,Conference USA,fbs,31,10,13,0,8,2393,Middle Tennessee,Conference USA,fbs,10,0,3,7,0
+401531339,2023,5,FALSE,TRUE,,3674,202,Tulsa,American Athletic,fbs,48,14,7,10,17,218,Temple,American Athletic,fbs,26,3,0,15,8
+401520276,2023,5,FALSE,TRUE,,3647,2534,Sam Houston State,Conference USA,fbs,28,14,7,0,7,55,Jacksonville State,Conference USA,fbs,35,7,0,7,14
+401525512,2023,5,FALSE,TRUE,,3670,152,NC State,ACC,fbs,10,0,10,0,0,97,Louisville,ACC,fbs,13,0,0,10,3
+401524020,2023,5,FALSE,TRUE,,3893,204,Oregon State,Pac-12,fbs,21,7,0,7,7,254,Utah,Pac-12,fbs,7,0,0,0,7
+401520278,2023,5,FALSE,TRUE,,3946,2638,UTEP,Conference USA,fbs,10,0,7,3,0,2348,Louisiana Tech,Conference USA,fbs,24,14,3,0,7
+401525851,2023,5,FALSE,TRUE,,3801,252,BYU,Big 12,fbs,35,7,7,14,7,2132,Cincinnati,Big 12,fbs,27,0,10,10,7
+401524023,2023,5,FALSE,TRUE,,3726,38,Colorado,Pac-12,fbs,41,0,14,13,14,30,USC,Pac-12,fbs,48,14,20,14,0
+401520282,2023,5,FALSE,TRUE,,3683,96,Kentucky,SEC,fbs,33,16,7,7,3,57,Florida,SEC,fbs,14,0,7,7,0
+401525514,2023,5,FALSE,TRUE,,1964,183,Syracuse,ACC,fbs,14,7,0,0,7,228,Clemson,ACC,fbs,31,14,7,3,7
+401531880,2023,5,FALSE,TRUE,,3651,256,James Madison,Sun Belt,fbs,31,14,10,0,7,6,South Alabama,Sun Belt,fbs,23,0,7,3,13
+401520284,2023,5,FALSE,FALSE,,3953,135,Minnesota,Big Ten,fbs,35,7,7,7,14,309,Louisiana,Sun Belt,fbs,24,7,10,0,7
+401520292,2023,5,FALSE,FALSE,,3892,41,Connecticut,FBS Independents,fbs,33,7,10,0,16,328,Utah State,Mountain West,fbs,34,0,7,17,10
+401531370,2023,5,FALSE,TRUE,,4729,2655,Tulane,American Athletic,fbs,35,7,7,14,7,5,UAB,American Athletic,fbs,23,3,17,0,3
+401532412,2023,5,FALSE,TRUE,,3768,2006,Akron,Mid-American,fbs,10,7,3,0,0,2084,Buffalo,Mid-American,fbs,13,0,7,3,0
+401520287,2023,5,FALSE,TRUE,,3911,77,Northwestern,Big Ten,fbs,13,3,7,0,3,213,Penn State,Big Ten,fbs,41,3,7,17,14
+401520279,2023,5,TRUE,TRUE,,3687,8,Arkansas,SEC,fbs,22,3,3,10,6,245,Texas A&M,SEC,fbs,34,7,10,10,7
+401532410,2023,5,FALSE,TRUE,,3786,2117,Central Michigan,Mid-American,fbs,26,7,7,5,7,2199,Eastern Michigan,Mid-American,fbs,23,7,3,13,0
+401525513,2023,5,FALSE,TRUE,,3615,103,Boston College,ACC,fbs,27,0,7,17,3,258,Virginia,ACC,fbs,24,7,14,0,3
+401532413,2023,5,FALSE,TRUE,,3696,2309,Kent State,Mid-American,fbs,3,3,0,0,0,193,Miami (OH),Mid-American,fbs,23,10,3,10,0
+401524022,2023,5,FALSE,TRUE,,3831,25,California,Pac-12,fbs,24,7,3,7,7,9,Arizona State,Pac-12,fbs,21,7,0,6,8
+401525854,2023,5,FALSE,TRUE,,3910,251,Texas,Big 12,fbs,40,10,3,13,14,2305,Kansas,Big 12,fbs,14,0,7,7,0
+401525515,2023,5,FALSE,FALSE,,721,59,Georgia Tech,ACC,fbs,27,14,0,6,7,189,Bowling Green,Mid-American,fbs,38,7,10,21,0
+401531424,2023,5,FALSE,TRUE,,3852,2426,Navy,American Athletic,fbs,30,14,6,3,7,58,South Florida,American Athletic,fbs,44,7,16,7,14
+401531881,2023,5,FALSE,TRUE,,3775,276,Marshall,Sun Belt,fbs,41,3,14,21,3,295,Old Dominion,Sun Belt,fbs,35,7,14,7,7
+401532409,2023,5,FALSE,TRUE,,3980,2711,Western Michigan,Mid-American,fbs,42,7,21,7,7,2050,Ball State,Mid-American,fbs,24,3,7,7,7
+401532411,2023,5,FALSE,TRUE,,3739,2649,Toledo,Mid-American,fbs,35,7,7,14,7,2459,Northern Illinois,Mid-American,fbs,33,7,0,10,16
+401520280,2023,5,FALSE,TRUE,,3785,2,Auburn,SEC,fbs,20,10,0,7,3,61,Georgia,SEC,fbs,27,0,10,7,10
+401520289,2023,5,FALSE,TRUE,,3907,2509,Purdue,Big Ten,fbs,44,6,10,21,7,356,Illinois,Big Ten,fbs,19,3,10,0,6
+401520290,2023,5,FALSE,FALSE,,6577,164,Rutgers,Big Ten,fbs,52,10,14,14,14,2681,Wagner,NEC,fcs,3,0,3,0,0
+401526836,2023,5,FALSE,FALSE,,3985,113,UMass,FBS Independents,fbs,28,0,10,10,8,2032,Arkansas State,Sun Belt,fbs,52,17,14,14,7
+401525856,2023,5,FALSE,TRUE,,3652,2116,UCF,Big 12,fbs,35,21,7,7,0,239,Baylor,Big 12,fbs,36,7,0,3,26
+401525855,2023,5,FALSE,TRUE,,3784,2641,Texas Tech,Big 12,fbs,49,14,21,7,7,248,Houston,Big 12,fbs,28,14,14,0,0
+401520283,2023,5,FALSE,TRUE,,3665,120,Maryland,Big Ten,fbs,44,21,6,10,7,84,Indiana,Big Ten,fbs,17,3,0,0,14
+401520286,2023,5,FALSE,TRUE,,3834,158,Nebraska,Big Ten,fbs,7,0,0,0,7,130,Michigan,Big Ten,fbs,45,14,14,7,10
+401520293,2023,5,FALSE,TRUE,,3973,238,Vanderbilt,SEC,fbs,21,7,0,0,14,142,Missouri,SEC,fbs,38,3,14,7,14
+401532588,2023,5,FALSE,TRUE,,3984,2751,Wyoming,Mountain West,fbs,35,9,3,17,6,167,New Mexico,Mountain West,fbs,26,6,3,3,14
+401531429,2023,5,FALSE,FALSE,,3805,235,Memphis,American Athletic,fbs,35,0,14,7,14,68,Boise State,Mountain West,fbs,32,3,14,0,15
+401532586,2023,5,FALSE,TRUE,,6501,2439,UNLV,Mountain West,fbs,44,7,13,7,17,62,Hawai'i,Mountain West,fbs,20,0,3,10,7
+401520288,2023,5,FALSE,TRUE,,3974,145,Ole Miss,SEC,fbs,55,21,10,3,21,99,LSU,SEC,fbs,49,7,21,14,7
+401524024,2023,5,FALSE,TRUE,,3940,24,Stanford,Pac-12,fbs,6,3,3,0,0,2483,Oregon,Pac-12,fbs,42,0,14,21,7
+401531878,2023,5,FALSE,TRUE,,3608,290,Georgia Southern,Sun Belt,fbs,38,0,21,17,0,324,Coastal Carolina,Sun Belt,fbs,28,7,7,7,7
+401532585,2023,5,FALSE,FALSE,,5388,36,Colorado State,Mountain West,fbs,41,14,7,6,14,3101,Utah Tech,UAC,fcs,20,3,14,3,0
+401531883,2023,5,FALSE,TRUE,,3815,2572,Southern Mississippi,Sun Belt,fbs,36,3,7,6,20,326,Texas State,Sun Belt,fbs,50,28,14,0,8
+401525852,2023,5,FALSE,TRUE,,3835,201,Oklahoma,Big 12,fbs,50,21,19,7,3,66,Iowa State,Big 12,fbs,20,10,10,0,0
+401531414,2023,5,FALSE,TRUE,,3895,242,Rice,American Athletic,fbs,24,3,7,7,7,151,East Carolina,American Athletic,fbs,17,3,6,0,8
+401531436,2023,5,FALSE,FALSE,,3825,249,North Texas,American Athletic,fbs,45,24,7,14,0,2000,Abilene Christian,UAC,fcs,31,7,10,7,7
+401531879,2023,5,FALSE,TRUE,,4246,2247,Georgia State,Sun Belt,fbs,7,0,7,0,0,2653,Troy,Sun Belt,fbs,28,3,3,15,7
+401531404,2023,5,FALSE,TRUE,,3735,2567,SMU,American Athletic,fbs,34,14,3,10,7,2429,Charlotte,American Athletic,fbs,16,0,3,6,7
+401525438,2023,5,FALSE,FALSE,,3982,150,Duke,ACC,fbs,14,0,0,7,7,87,Notre Dame,FBS Independents,fbs,21,7,3,3,8
+401520281,2023,5,FALSE,TRUE,,3793,2294,Iowa,Big Ten,fbs,26,3,7,3,13,127,Michigan State,Big Ten,fbs,16,3,6,7,0
+401520291,2023,5,FALSE,TRUE,,3853,2633,Tennessee,SEC,fbs,41,14,10,7,10,2579,South Carolina,SEC,fbs,20,10,0,7,3
+401525853,2023,5,FALSE,TRUE,,3616,2628,TCU,Big 12,fbs,21,7,14,0,0,277,West Virginia,Big 12,fbs,24,7,7,7,3
+401532589,2023,5,FALSE,TRUE,,3713,2005,Air Force,Mountain West,fbs,49,0,21,21,7,21,San Diego State,Mountain West,fbs,10,0,10,0,0
+401525516,2023,5,FALSE,TRUE,,3799,259,Virginia Tech,ACC,fbs,38,7,14,14,3,221,Pittsburgh,ACC,fbs,21,7,0,14,0
+401531882,2023,5,FALSE,TRUE,,3817,2433,Louisiana Monroe,Sun Belt,fbs,40,14,14,12,0,2026,Appalachian State,Sun Belt,fbs,41,14,14,7,6
+401520285,2023,5,FALSE,TRUE,,3693,344,Mississippi State,SEC,fbs,17,0,10,7,0,333,Alabama,SEC,fbs,40,14,17,3,6
+401524021,2023,5,FALSE,TRUE,,3619,12,Arizona,Pac-12,fbs,24,0,10,7,7,264,Washington,Pac-12,fbs,31,14,7,7,3
+401532587,2023,5,FALSE,TRUE,,3660,278,Fresno State,Mountain West,fbs,27,7,7,6,7,2440,Nevada,Mountain West,fbs,9,0,0,0,9
+401520294,2023,6,FALSE,TRUE,,3725,2393,Middle Tennessee,Conference USA,fbs,30,3,20,0,7,55,Jacksonville State,Conference USA,fbs,45,0,7,17,21
+401520297,2023,6,FALSE,TRUE,,3601,166,New Mexico State,Conference USA,fbs,34,7,7,3,17,2229,Florida International,Conference USA,fbs,17,7,7,3,0
+401520296,2023,6,FALSE,TRUE,,3992,2335,Liberty,Conference USA,fbs,21,7,14,0,0,2534,Sam Houston State,Conference USA,fbs,16,10,0,6,0
+401520295,2023,6,FALSE,TRUE,,3776,2348,Louisiana Tech,Conference USA,fbs,28,7,0,14,7,98,Western Kentucky,Conference USA,fbs,35,21,14,0,0
+401525857,2023,6,FALSE,TRUE,,3646,197,Oklahoma State,Big 12,fbs,29,10,10,6,3,2306,Kansas State,Big 12,fbs,21,0,7,8,6
+401520301,2023,6,FALSE,TRUE,,3832,356,Illinois,Big Ten,fbs,7,0,7,0,0,158,Nebraska,Big Ten,fbs,20,3,14,3,0
+401520304,2023,6,FALSE,FALSE,,3693,344,Mississippi State,SEC,fbs,41,10,7,14,10,2711,Western Michigan,Mid-American,fbs,28,0,7,14,7
+401525861,2023,6,TRUE,TRUE,,499,251,Texas,Big 12,fbs,30,7,10,3,10,201,Oklahoma,Big 12,fbs,34,7,13,7,7
+401520298,2023,6,FALSE,FALSE,,3841,349,Army,FBS Independents,fbs,24,0,3,14,7,103,Boston College,ACC,fbs,27,6,7,7,7
+401520311,2023,6,FALSE,TRUE,,347,275,Wisconsin,Big Ten,fbs,24,3,14,0,7,164,Rutgers,Big Ten,fbs,13,0,0,6,7
+401525522,2023,6,FALSE,FALSE,,3923,258,Virginia,ACC,fbs,27,3,17,0,7,2729,William & Mary,CAA,fcs,13,6,7,0,0
+401526837,2023,6,FALSE,FALSE,,3985,113,UMass,FBS Independents,fbs,24,7,14,3,0,2649,Toledo,Mid-American,fbs,41,10,7,21,3
+401520307,2023,6,FALSE,TRUE,,3861,194,Ohio State,Big Ten,fbs,37,0,10,10,17,120,Maryland,Big Ten,fbs,17,7,3,7,0
+401520305,2023,6,FALSE,TRUE,,3838,142,Missouri,SEC,fbs,39,15,10,7,7,99,LSU,SEC,fbs,49,7,10,10,22
+401532415,2023,6,FALSE,TRUE,,3965,2084,Buffalo,Mid-American,fbs,37,10,13,14,0,2117,Central Michigan,Mid-American,fbs,13,0,7,0,6
+401531389,2023,6,FALSE,TRUE,,3806,218,Temple,American Athletic,fbs,34,14,7,0,13,2636,UT San Antonio,American Athletic,fbs,49,7,21,7,14
+401525521,2023,6,FALSE,FALSE,,3670,152,NC State,ACC,fbs,48,7,14,14,13,276,Marshall,Sun Belt,fbs,41,14,10,10,7
+401520306,2023,6,FALSE,FALSE,,3911,77,Northwestern,Big Ten,fbs,23,9,7,7,0,47,Howard,MEAC,fcs,20,0,0,7,13
+401524028,2023,6,FALSE,TRUE,,1056,26,UCLA,Pac-12,fbs,25,0,9,3,13,265,Washington State,Pac-12,fbs,17,3,7,7,0
+401532416,2023,6,FALSE,TRUE,,3996,193,Miami (OH),Mid-American,fbs,27,7,7,10,3,189,Bowling Green,Mid-American,fbs,0,0,0,0,0
+401532418,2023,6,FALSE,TRUE,,3768,2006,Akron,Mid-American,fbs,14,7,0,7,0,2459,Northern Illinois,Mid-American,fbs,55,7,28,20,0
+401520310,2023,6,FALSE,TRUE,,3795,245,Texas A&M,SEC,fbs,20,3,14,0,3,333,Alabama,SEC,fbs,26,3,7,14,2
+401525517,2023,6,FALSE,TRUE,,3836,228,Clemson,ACC,fbs,17,0,7,3,7,154,Wake Forest,ACC,fbs,12,3,0,3,6
+401532417,2023,6,FALSE,TRUE,,3876,195,Ohio,Mid-American,fbs,42,0,21,14,7,2309,Kent State,Mid-American,fbs,17,0,7,3,7
+401532414,2023,6,FALSE,TRUE,,3912,2199,Eastern Michigan,Mid-American,fbs,24,3,14,7,0,2050,Ball State,Mid-American,fbs,10,3,7,0,0
+401525518,2023,6,FALSE,TRUE,,3697,52,Florida State,ACC,fbs,39,22,0,10,7,259,Virginia Tech,ACC,fbs,17,0,10,7,0
+401520302,2023,6,FALSE,TRUE,,3793,2294,Iowa,Big Ten,fbs,20,7,3,3,7,2509,Purdue,Big Ten,fbs,14,0,7,0,7
+401531433,2023,6,FALSE,TRUE,,3852,2426,Navy,American Athletic,fbs,27,0,13,7,7,249,North Texas,American Athletic,fbs,24,3,7,0,14
+401531884,2023,6,FALSE,TRUE,,3666,309,Louisiana,Sun Belt,fbs,34,7,7,7,13,326,Texas State,Sun Belt,fbs,30,10,10,3,7
+401525520,2023,6,FALSE,TRUE,,3787,153,North Carolina,ACC,fbs,40,10,17,10,3,183,Syracuse,ACC,fbs,7,0,0,7,0
+401525860,2023,6,FALSE,TRUE,,3833,2305,Kansas,Big 12,fbs,51,3,21,13,14,2116,UCF,Big 12,fbs,22,0,0,8,14
+401531380,2023,6,FALSE,TRUE,,7221,5,UAB,American Athletic,fbs,56,21,14,14,7,58,South Florida,American Athletic,fbs,35,14,0,7,14
+401531887,2023,6,FALSE,TRUE,,3975,2653,Troy,Sun Belt,fbs,37,7,13,3,14,2032,Arkansas State,Sun Belt,fbs,3,0,0,0,3
+401520299,2023,6,FALSE,TRUE,,3634,57,Florida,SEC,fbs,38,7,14,7,10,238,Vanderbilt,SEC,fbs,14,7,0,7,0
+401520309,2023,6,FALSE,FALSE,,3895,242,Rice,American Athletic,fbs,31,14,0,7,10,41,Connecticut,FBS Independents,fbs,38,0,20,8,10
+401531340,2023,6,FALSE,TRUE,,3715,2226,Florida Atlantic,American Athletic,fbs,20,14,3,0,3,202,Tulsa,American Athletic,fbs,17,0,7,3,7
+401524026,2023,6,FALSE,TRUE,,3947,9,Arizona State,Pac-12,fbs,24,7,10,0,7,38,Colorado,Pac-12,fbs,27,7,7,0,13
+401531886,2023,6,FALSE,TRUE,,3815,2572,Southern Mississippi,Sun Belt,fbs,13,10,0,3,0,295,Old Dominion,Sun Belt,fbs,17,0,7,3,7
+401520300,2023,6,FALSE,TRUE,,3917,61,Georgia,SEC,fbs,51,14,20,10,7,96,Kentucky,SEC,fbs,13,0,7,6,0
+401531885,2023,6,FALSE,TRUE,,3817,2433,Louisiana Monroe,Sun Belt,fbs,7,0,7,0,0,6,South Alabama,Sun Belt,fbs,55,14,17,14,10
+401520308,2023,6,FALSE,TRUE,,3974,145,Ole Miss,SEC,fbs,27,10,7,0,10,8,Arkansas,SEC,fbs,20,7,0,6,7
+401520303,2023,6,FALSE,TRUE,,3953,135,Minnesota,Big Ten,fbs,10,3,7,0,0,130,Michigan,Big Ten,fbs,52,10,14,21,7
+401525439,2023,6,FALSE,FALSE,,3873,97,Louisville,ACC,fbs,33,7,0,10,16,87,Notre Dame,FBS Independents,fbs,20,0,7,6,7
+401532591,2023,6,FALSE,TRUE,,3984,2751,Wyoming,Mountain West,fbs,24,3,21,0,0,278,Fresno State,Mountain West,fbs,19,0,7,3,9
+401532592,2023,6,FALSE,TRUE,,3653,68,Boise State,Mountain West,fbs,35,0,14,7,14,23,San José State,Mountain West,fbs,27,14,13,0,0
+401532590,2023,6,FALSE,TRUE,,3905,328,Utah State,Mountain West,fbs,44,3,14,14,13,36,Colorado State,Mountain West,fbs,24,17,0,0,7
+401525858,2023,6,FALSE,TRUE,,4727,239,Baylor,Big 12,fbs,14,0,3,0,11,2641,Texas Tech,Big 12,fbs,39,7,10,7,15
+401525859,2023,6,FALSE,TRUE,,3772,66,Iowa State,Big 12,fbs,27,7,3,14,3,2628,TCU,Big 12,fbs,14,0,7,0,7
+401525519,2023,6,FALSE,TRUE,,3948,2390,Miami,ACC,fbs,20,0,3,7,10,59,Georgia Tech,ACC,fbs,23,0,0,14,9
+401524027,2023,6,FALSE,TRUE,,3831,25,California,Pac-12,fbs,40,0,17,15,8,204,Oregon State,Pac-12,fbs,52,7,14,14,17
+401524025,2023,6,FALSE,TRUE,,477,30,USC,Pac-12,fbs,43,0,14,7,7,12,Arizona,Pac-12,fbs,41,10,7,3,8
+401520313,2023,7,FALSE,TRUE,,3725,2393,Middle Tennessee,Conference USA,fbs,31,10,7,7,7,2348,Louisiana Tech,Conference USA,fbs,23,6,3,7,7
+401531888,2023,7,FALSE,TRUE,,3792,2026,Appalachian State,Sun Belt,fbs,24,0,10,7,7,324,Coastal Carolina,Sun Belt,fbs,27,14,3,7,3
+401520312,2023,7,FALSE,TRUE,,3662,55,Jacksonville State,Conference USA,fbs,13,7,3,3,0,2335,Liberty,Conference USA,fbs,31,0,10,7,14
+401520314,2023,7,FALSE,TRUE,,218,2229,Florida International,Conference USA,fbs,14,0,7,7,0,2638,UTEP,Conference USA,fbs,27,21,3,0,3
+401520315,2023,7,FALSE,TRUE,,3601,166,New Mexico State,Conference USA,fbs,27,14,13,0,0,2534,Sam Houston State,Conference USA,fbs,13,0,0,6,7
+401525862,2023,7,FALSE,TRUE,,4728,248,Houston,Big 12,fbs,41,7,7,7,20,277,West Virginia,Big 12,fbs,39,10,0,7,22
+401531415,2023,7,FALSE,TRUE,,3699,151,East Carolina,American Athletic,fbs,10,0,10,0,0,2567,SMU,American Athletic,fbs,31,14,0,0,17
+401531371,2023,7,FALSE,TRUE,,3805,235,Memphis,American Athletic,fbs,21,0,14,7,0,2655,Tulane,American Athletic,fbs,31,7,3,7,14
+401532594,2023,7,FALSE,TRUE,,3905,328,Utah State,Mountain West,fbs,32,7,7,3,15,278,Fresno State,Mountain West,fbs,37,7,7,14,9
+401524029,2023,7,FALSE,TRUE,,3726,38,Colorado,Pac-12,fbs,43,14,15,0,7,24,Stanford,Pac-12,fbs,46,0,0,19,17
+401520327,2023,7,FALSE,TRUE,,3973,238,Vanderbilt,SEC,fbs,20,7,0,0,13,61,Georgia,SEC,fbs,37,7,17,3,10
+401520321,2023,7,FALSE,TRUE,,3558,130,Michigan,Big Ten,fbs,52,0,21,17,14,84,Indiana,Big Ten,fbs,7,7,0,0,0
+401532422,2023,7,FALSE,TRUE,,3912,2199,Eastern Michigan,Mid-American,fbs,28,7,7,7,7,2309,Kent State,Mid-American,fbs,14,0,0,7,7
+401531890,2023,7,FALSE,TRUE,,3651,256,James Madison,Sun Belt,fbs,41,14,6,21,0,290,Georgia Southern,Sun Belt,fbs,13,0,6,0,7
+401520324,2023,7,FALSE,TRUE,,6577,164,Rutgers,Big Ten,fbs,27,3,3,0,21,127,Michigan State,Big Ten,fbs,24,7,10,7,0
+401531390,2023,7,FALSE,TRUE,,3825,249,North Texas,American Athletic,fbs,45,14,10,7,14,218,Temple,American Athletic,fbs,14,7,7,0,0
+401525863,2023,7,FALSE,TRUE,,3854,2132,Cincinnati,Big 12,fbs,10,7,0,3,0,66,Iowa State,Big 12,fbs,30,3,14,6,7
+401520323,2023,7,FALSE,TRUE,,3907,2509,Purdue,Big Ten,fbs,7,0,0,0,7,194,Ohio State,Big Ten,fbs,41,13,7,14,7
+401525524,2023,7,FALSE,TRUE,,3697,52,Florida State,ACC,fbs,41,7,10,7,17,183,Syracuse,ACC,fbs,3,0,3,0,0
+401520316,2023,7,FALSE,TRUE,,3657,333,Alabama,SEC,fbs,24,7,14,3,0,8,Arkansas,SEC,fbs,21,6,0,7,8
+401532419,2023,7,FALSE,TRUE,,3919,2050,Ball State,Mid-American,fbs,6,0,3,0,3,2649,Toledo,Mid-American,fbs,13,3,0,0,10
+401531405,2023,7,FALSE,TRUE,,4418,2429,Charlotte,American Athletic,fbs,0,0,0,0,0,2426,Navy,American Athletic,fbs,14,0,0,7,7
+401524033,2023,7,FALSE,TRUE,,587,254,Utah,Pac-12,fbs,34,0,14,10,10,25,California,Pac-12,fbs,14,7,0,7,0
+401524034,2023,7,FALSE,TRUE,,3765,264,Washington,Pac-12,fbs,36,14,8,7,7,2483,Oregon,Pac-12,fbs,33,8,10,8,7
+401520320,2023,7,FALSE,TRUE,,3665,120,Maryland,Big Ten,fbs,24,7,7,7,3,356,Illinois,Big Ten,fbs,27,7,7,10,3
+401520325,2023,7,FALSE,TRUE,,3994,2579,South Carolina,SEC,fbs,39,14,7,3,15,57,Florida,SEC,fbs,41,10,14,3,14
+401520326,2023,7,FALSE,TRUE,,3853,2633,Tennessee,SEC,fbs,20,7,0,7,6,245,Texas A&M,SEC,fbs,13,7,3,3,0
+401525527,2023,7,FALSE,TRUE,,3799,259,Virginia Tech,ACC,fbs,30,0,17,3,10,154,Wake Forest,ACC,fbs,13,0,10,0,3
+401525864,2023,7,FALSE,TRUE,,3646,197,Oklahoma State,Big 12,fbs,39,17,7,3,12,2305,Kansas,Big 12,fbs,32,7,18,7,0
+401532421,2023,7,FALSE,TRUE,,3965,2084,Buffalo,Mid-American,fbs,14,7,0,7,0,189,Bowling Green,Mid-American,fbs,24,10,14,0,0
+401525865,2023,7,FALSE,TRUE,,3616,2628,TCU,Big 12,fbs,44,14,17,10,3,252,BYU,Big 12,fbs,11,0,8,3,0
+401531420,2023,7,FALSE,TRUE,,3886,58,South Florida,American Athletic,fbs,14,0,14,0,0,2226,Florida Atlantic,American Athletic,fbs,56,7,14,21,14
+401532423,2023,7,FALSE,TRUE,,3980,2711,Western Michigan,Mid-American,fbs,21,3,7,3,8,193,Miami (OH),Mid-American,fbs,34,14,7,0,13
+401520322,2023,7,FALSE,FALSE,,3632,213,Penn State,Big Ten,fbs,63,7,21,21,14,113,UMass,FBS Independents,fbs,0,0,0,0,0
+401532420,2023,7,FALSE,TRUE,,3786,2117,Central Michigan,Mid-American,fbs,17,0,3,14,0,2006,Akron,Mid-American,fbs,10,3,0,0,7
+401520317,2023,7,FALSE,FALSE,,3841,349,Army,FBS Independents,fbs,0,0,0,0,0,2653,Troy,Sun Belt,fbs,19,3,13,3,0
+401532424,2023,7,FALSE,TRUE,,3764,2459,Northern Illinois,Mid-American,fbs,23,7,0,10,6,195,Ohio,Mid-American,fbs,13,3,10,0,0
+401520328,2023,7,FALSE,TRUE,,347,275,Wisconsin,Big Ten,fbs,6,0,0,6,0,2294,Iowa,Big Ten,fbs,15,0,7,0,8
+401532597,2023,7,FALSE,TRUE,,3816,2440,Nevada,Mountain West,fbs,27,7,0,7,13,2439,UNLV,Mountain West,fbs,45,14,14,10,7
+401532596,2023,7,FALSE,TRUE,,3971,167,New Mexico,Mountain West,fbs,24,3,14,0,7,23,San José State,Mountain West,fbs,52,0,14,24,14
+401525525,2023,7,FALSE,TRUE,,3752,221,Pittsburgh,ACC,fbs,38,7,7,17,7,97,Louisville,ACC,fbs,21,7,14,0,0
+401532598,2023,7,FALSE,TRUE,,3713,2005,Air Force,Mountain West,fbs,34,7,10,7,10,2751,Wyoming,Mountain West,fbs,27,14,7,0,6
+401524030,2023,7,FALSE,TRUE,,3820,265,Washington State,Pac-12,fbs,6,6,0,0,0,12,Arizona,Pac-12,fbs,44,10,10,10,14
+401520319,2023,7,FALSE,TRUE,,3958,99,LSU,SEC,fbs,48,17,3,14,14,2,Auburn,SEC,fbs,18,0,7,3,8
+401525866,2023,7,FALSE,TRUE,,3784,2641,Texas Tech,Big 12,fbs,21,0,14,7,0,2306,Kansas State,Big 12,fbs,38,10,7,14,7
+401531891,2023,7,FALSE,TRUE,,3644,326,Texas State,Sun Belt,fbs,21,3,6,0,12,2433,Louisiana Monroe,Sun Belt,fbs,20,7,0,3,10
+401531889,2023,7,FALSE,TRUE,,4246,2247,Georgia State,Sun Belt,fbs,41,14,13,0,14,276,Marshall,Sun Belt,fbs,24,7,10,7,0
+401524031,2023,7,FALSE,FALSE,,3855,87,Notre Dame,FBS Independents,fbs,48,7,17,7,17,30,USC,Pac-12,fbs,20,3,3,7,7
+401520318,2023,7,FALSE,TRUE,,3683,96,Kentucky,SEC,fbs,21,14,0,7,0,142,Missouri,SEC,fbs,38,0,17,3,18
+401525526,2023,7,FALSE,TRUE,,3787,153,North Carolina,ACC,fbs,41,7,7,21,6,2390,Miami,ACC,fbs,31,0,17,0,14
+401525523,2023,7,FALSE,TRUE,,3982,150,Duke,ACC,fbs,24,7,10,7,0,152,NC State,ACC,fbs,3,3,0,0,0
+401524032,2023,7,FALSE,TRUE,,3893,204,Oregon State,Pac-12,fbs,36,13,10,13,0,26,UCLA,Pac-12,fbs,24,0,10,7,7
+401531381,2023,7,FALSE,TRUE,,3604,2636,UT San Antonio,American Athletic,fbs,41,21,3,7,10,5,UAB,American Athletic,fbs,20,7,6,7,0
+401532593,2023,7,FALSE,TRUE,,5388,36,Colorado State,Mountain West,fbs,31,0,0,10,21,68,Boise State,Mountain West,fbs,30,7,10,0,13
+401532595,2023,7,FALSE,TRUE,,7220,62,Hawai'i,Mountain West,fbs,34,0,14,10,10,21,San Diego State,Mountain West,fbs,41,10,7,3,21
+401520330,2023,8,FALSE,TRUE,,3992,2335,Liberty,Conference USA,fbs,42,14,7,14,7,2393,Middle Tennessee,Conference USA,fbs,35,14,7,14,0
+401531892,2023,8,FALSE,TRUE,,6526,6,South Alabama,Sun Belt,fbs,55,14,17,17,7,2572,Southern Mississippi,Sun Belt,fbs,3,0,0,3,0
+401520329,2023,8,FALSE,TRUE,,3662,55,Jacksonville State,Conference USA,fbs,20,0,10,0,10,98,Western Kentucky,Conference USA,fbs,17,10,7,0,0
+401520331,2023,8,FALSE,TRUE,,3647,2534,Sam Houston State,Conference USA,fbs,27,0,10,0,10,2229,Florida International,Conference USA,fbs,33,3,7,7,3
+401520332,2023,8,FALSE,TRUE,,3946,2638,UTEP,Conference USA,fbs,7,0,7,0,0,166,New Mexico State,Conference USA,fbs,28,7,0,14,7
+401531893,2023,8,FALSE,TRUE,,3775,276,Marshall,Sun Belt,fbs,9,0,0,2,7,256,James Madison,Sun Belt,fbs,20,0,3,10,7
+401531341,2023,8,FALSE,TRUE,,3674,202,Tulsa,American Athletic,fbs,10,0,10,0,0,242,Rice,American Athletic,fbs,42,14,7,14,7
+401531391,2023,8,FALSE,TRUE,,3806,218,Temple,American Athletic,fbs,0,0,0,0,0,2567,SMU,American Athletic,fbs,55,14,10,17,14
+401531382,2023,8,FALSE,TRUE,,7221,5,UAB,American Athletic,fbs,21,14,7,0,0,235,Memphis,American Athletic,fbs,45,7,14,17,7
+401525871,2023,8,FALSE,TRUE,,3835,201,Oklahoma,Big 12,fbs,31,7,10,0,14,2116,UCF,Big 12,fbs,29,0,17,6,6
+401525868,2023,8,FALSE,TRUE,,3854,2132,Cincinnati,Big 12,fbs,29,0,14,0,15,239,Baylor,Big 12,fbs,32,3,17,9,3
+401520334,2023,8,FALSE,TRUE,,3887,8,Arkansas,SEC,fbs,3,3,0,0,0,344,Mississippi State,SEC,fbs,7,0,7,0,0
+401525528,2023,8,FALSE,TRUE,,721,59,Georgia Tech,ACC,fbs,23,7,3,13,0,103,Boston College,ACC,fbs,38,10,7,0,21
+401520343,2023,8,FALSE,TRUE,,3861,194,Ohio State,Big Ten,fbs,20,3,7,0,10,213,Penn State,Big Ten,fbs,12,3,3,0,6
+401520337,2023,8,FALSE,TRUE,,3830,84,Indiana,Big Ten,fbs,14,7,7,0,0,164,Rutgers,Big Ten,fbs,31,7,10,7,7
+401531434,2023,8,FALSE,FALSE,,3852,2426,Navy,American Athletic,fbs,6,0,0,0,6,2005,Air Force,Mountain West,fbs,17,0,7,3,7
+401532428,2023,8,FALSE,TRUE,,3876,195,Ohio,Mid-American,fbs,20,3,3,7,7,2711,Western Michigan,Mid-American,fbs,17,0,0,10,7
+401531894,2023,8,FALSE,TRUE,,3608,290,Georgia Southern,Sun Belt,fbs,38,7,24,0,7,2433,Louisiana Monroe,Sun Belt,fbs,28,7,7,3,11
+401532429,2023,8,FALSE,TRUE,,3700,189,Bowling Green,Mid-American,fbs,41,3,10,21,7,2006,Akron,Mid-American,fbs,14,7,0,0,7
+401531406,2023,8,FALSE,TRUE,,3699,151,East Carolina,American Athletic,fbs,7,0,0,0,7,2429,Charlotte,American Athletic,fbs,10,3,0,7,0
+401520341,2023,8,FALSE,TRUE,,3838,142,Missouri,SEC,fbs,34,14,10,0,10,2579,South Carolina,SEC,fbs,12,0,3,6,3
+401525532,2023,8,FALSE,TRUE,,3630,154,Wake Forest,ACC,fbs,21,0,7,0,14,221,Pittsburgh,ACC,fbs,17,7,0,0,10
+401532426,2023,8,FALSE,TRUE,,3764,2459,Northern Illinois,Mid-American,fbs,20,7,3,0,10,2199,Eastern Michigan,Mid-American,fbs,13,7,3,3,0
+401524035,2023,8,FALSE,TRUE,,3626,2483,Oregon,Pac-12,fbs,38,3,14,14,7,265,Washington State,Pac-12,fbs,24,3,10,3,8
+401520342,2023,8,FALSE,TRUE,,3834,158,Nebraska,Big Ten,fbs,17,3,7,0,7,77,Northwestern,Big Ten,fbs,9,3,3,0,3
+401531372,2023,8,FALSE,TRUE,,4729,2655,Tulane,American Athletic,fbs,35,7,14,7,7,249,North Texas,American Athletic,fbs,28,0,0,21,7
+401525872,2023,8,FALSE,TRUE,,3842,277,West Virginia,Big 12,fbs,34,0,17,7,10,197,Oklahoma State,Big 12,fbs,48,10,3,7,28
+401532425,2023,8,FALSE,TRUE,,3919,2050,Ball State,Mid-American,fbs,24,7,3,7,7,2117,Central Michigan,Mid-American,fbs,17,3,0,7,7
+401520333,2023,8,FALSE,TRUE,,3657,333,Alabama,SEC,fbs,34,0,7,17,10,2633,Tennessee,SEC,fbs,20,13,7,0,0
+401520336,2023,8,FALSE,TRUE,,3832,356,Illinois,Big Ten,fbs,21,7,7,7,0,275,Wisconsin,Big Ten,fbs,25,0,7,0,18
+401520338,2023,8,FALSE,TRUE,,3793,2294,Iowa,Big Ten,fbs,10,3,7,0,0,135,Minnesota,Big Ten,fbs,12,3,0,6,3
+401532430,2023,8,FALSE,TRUE,,3696,2309,Kent State,Mid-American,fbs,6,6,0,0,0,2084,Buffalo,Mid-American,fbs,24,7,7,3,7
+401520344,2023,8,FALSE,FALSE,,3892,41,Connecticut,FBS Independents,fbs,21,0,14,0,7,58,South Florida,American Athletic,fbs,24,7,3,0,14
+401532427,2023,8,FALSE,TRUE,,3996,193,Miami (OH),Mid-American,fbs,17,0,3,14,0,2649,Toledo,Mid-American,fbs,21,7,14,0,0
+401525869,2023,8,FALSE,TRUE,,4728,248,Houston,Big 12,fbs,24,0,14,7,3,251,Texas,Big 12,fbs,31,14,7,3,7
+401531397,2023,8,FALSE,TRUE,,3715,2226,Florida Atlantic,American Athletic,fbs,10,10,0,0,0,2636,UT San Antonio,American Athletic,fbs,36,7,13,9,7
+401532600,2023,8,FALSE,TRUE,,3971,167,New Mexico,Mountain West,fbs,42,14,14,7,7,62,Hawai'i,Mountain West,fbs,21,7,7,0,7
+401525531,2023,8,FALSE,TRUE,,3787,153,North Carolina,ACC,fbs,27,7,10,7,3,258,Virginia,ACC,fbs,31,14,0,10,7
+401525867,2023,8,FALSE,TRUE,,3801,252,BYU,Big 12,fbs,27,14,10,3,0,2641,Texas Tech,Big 12,fbs,14,0,7,0,7
+401525870,2023,8,FALSE,TRUE,,3636,2306,Kansas State,Big 12,fbs,41,21,6,7,7,2628,TCU,Big 12,fbs,3,3,0,0,0
+401531895,2023,8,FALSE,TRUE,,3918,295,Old Dominion,Sun Belt,fbs,28,0,17,3,8,2026,Appalachian State,Sun Belt,fbs,21,7,7,7,0
+401531896,2023,8,FALSE,TRUE,,3625,2032,Arkansas State,Sun Belt,fbs,17,0,3,7,7,324,Coastal Carolina,Sun Belt,fbs,27,3,14,0,10
+401520335,2023,8,FALSE,TRUE,,3785,2,Auburn,SEC,fbs,21,7,7,0,7,145,Ole Miss,SEC,fbs,28,14,0,7,7
+401532602,2023,8,FALSE,TRUE,,3935,23,San José State,Mountain West,fbs,42,14,0,14,14,328,Utah State,Mountain West,fbs,21,0,14,0,7
+401532599,2023,8,FALSE,TRUE,,6501,2439,UNLV,Mountain West,fbs,25,0,3,13,9,36,Colorado State,Mountain West,fbs,23,0,13,0,10
+401525530,2023,8,FALSE,TRUE,,3697,52,Florida State,ACC,fbs,38,7,10,0,21,150,Duke,ACC,fbs,20,10,10,0,0
+401520340,2023,8,FALSE,TRUE,,3936,127,Michigan State,Big Ten,fbs,0,0,0,0,0,130,Michigan,Big Ten,fbs,49,14,14,14,7
+401520339,2023,8,FALSE,FALSE,,3958,99,LSU,SEC,fbs,62,14,24,10,14,349,Army,FBS Independents,fbs,0,0,0,0,0
+401531897,2023,8,FALSE,TRUE,,3666,309,Louisiana,Sun Belt,fbs,17,0,7,10,0,2247,Georgia State,Sun Belt,fbs,20,0,20,0,0
+401524037,2023,8,FALSE,TRUE,,477,30,USC,Pac-12,fbs,32,14,0,3,15,254,Utah,Pac-12,fbs,34,14,0,14,6
+401525529,2023,8,FALSE,TRUE,,3948,2390,Miami,ACC,fbs,28,7,0,0,10,228,Clemson,ACC,fbs,20,0,7,10,0
+401532601,2023,8,FALSE,TRUE,,7311,21,San Diego State,Mountain West,fbs,0,0,0,0,0,2440,Nevada,Mountain West,fbs,6,3,3,0,0
+401524036,2023,8,FALSE,TRUE,,3940,24,Stanford,Pac-12,fbs,7,0,0,7,0,26,UCLA,Pac-12,fbs,42,14,7,14,7
+401524038,2023,8,FALSE,TRUE,,3765,264,Washington,Pac-12,fbs,15,0,3,0,12,9,Arizona State,Pac-12,fbs,7,0,7,0,0
+401520345,2023,9,FALSE,TRUE,,3776,2348,Louisiana Tech,Conference USA,fbs,24,3,13,8,0,166,New Mexico State,Conference USA,fbs,27,0,10,14,3
+401520346,2023,9,FALSE,TRUE,,3796,98,Western Kentucky,Conference USA,fbs,29,7,3,0,19,2335,Liberty,Conference USA,fbs,42,7,7,7,21
+401520347,2023,9,FALSE,TRUE,,218,2229,Florida International,Conference USA,fbs,16,0,3,13,0,55,Jacksonville State,Conference USA,fbs,41,21,3,3,14
+401520348,2023,9,FALSE,TRUE,,3647,2534,Sam Houston State,Conference USA,fbs,34,7,14,6,7,2638,UTEP,Conference USA,fbs,37,0,13,7,17
+401531929,2023,9,FALSE,TRUE,,3608,290,Georgia Southern,Sun Belt,fbs,44,10,17,7,10,2247,Georgia State,Sun Belt,fbs,27,7,0,14,6
+401525533,2023,9,FALSE,TRUE,,3799,259,Virginia Tech,ACC,fbs,38,13,17,5,3,183,Syracuse,ACC,fbs,10,0,3,7,0
+401531407,2023,9,FALSE,TRUE,,4418,2429,Charlotte,American Athletic,fbs,16,3,3,10,0,2226,Florida Atlantic,American Athletic,fbs,38,7,14,10,7
+401520358,2023,9,FALSE,TRUE,,3632,213,Penn State,Big Ten,fbs,33,7,10,7,9,84,Indiana,Big Ten,fbs,24,7,7,0,10
+401531342,2023,9,FALSE,TRUE,,3735,2567,SMU,American Athletic,fbs,69,28,24,14,3,202,Tulsa,American Athletic,fbs,10,3,0,0,7
+401520359,2023,9,FALSE,TRUE,,3795,245,Texas A&M,SEC,fbs,30,0,21,3,6,2579,South Carolina,SEC,fbs,17,7,0,3,7
+401520356,2023,9,FALSE,TRUE,,3911,77,Northwestern,Big Ten,fbs,33,14,10,3,6,120,Maryland,Big Ten,fbs,27,14,3,3,7
+401520351,2023,9,FALSE,FALSE,,3615,103,Boston College,ACC,fbs,21,7,7,7,0,41,Connecticut,FBS Independents,fbs,14,7,0,0,7
+401525875,2023,9,FALSE,TRUE,,3636,2306,Kansas State,Big 12,fbs,41,7,21,7,6,248,Houston,Big 12,fbs,0,0,0,0,0
+401525878,2023,9,FALSE,TRUE,,3652,2116,UCF,Big 12,fbs,28,7,7,7,7,277,West Virginia,Big 12,fbs,41,10,7,7,17
+401520349,2023,9,FALSE,TRUE,,3841,349,Army,FBS Independents,fbs,14,0,7,0,7,113,UMass,FBS Independents,fbs,21,13,0,8,0
+401525536,2023,9,FALSE,TRUE,,3630,154,Wake Forest,ACC,fbs,16,0,7,9,0,52,Florida State,ACC,fbs,41,10,24,0,7
+401525874,2023,9,FALSE,TRUE,,3833,2305,Kansas,Big 12,fbs,38,7,10,9,12,201,Oklahoma,Big 12,fbs,33,0,21,6,6
+401532431,2023,9,FALSE,TRUE,,3912,2199,Eastern Michigan,Mid-American,fbs,21,0,7,6,8,2711,Western Michigan,Mid-American,fbs,45,14,7,4,20
+401525534,2023,9,FALSE,TRUE,,3670,152,NC State,ACC,fbs,24,7,3,14,0,228,Clemson,ACC,fbs,17,0,7,0,10
+401531430,2023,9,FALSE,TRUE,,3825,249,North Texas,American Athletic,fbs,42,7,3,11,21,235,Memphis,American Athletic,fbs,45,14,17,0,14
+401532432,2023,9,FALSE,TRUE,,3876,195,Ohio,Mid-American,fbs,16,9,0,0,7,193,Miami (OH),Mid-American,fbs,30,0,13,10,7
+401531898,2023,9,FALSE,TRUE,,3792,2026,Appalachian State,Sun Belt,fbs,48,7,7,14,20,2572,Southern Mississippi,Sun Belt,fbs,38,7,17,7,7
+401531398,2023,9,FALSE,TRUE,,3604,2636,UT San Antonio,American Athletic,fbs,41,14,17,3,7,151,East Carolina,American Athletic,fbs,27,17,3,0,7
+401525877,2023,9,FALSE,TRUE,,3910,251,Texas,Big 12,fbs,35,14,7,0,14,252,BYU,Big 12,fbs,6,0,3,3,0
+401525873,2023,9,FALSE,TRUE,,4727,239,Baylor,Big 12,fbs,18,0,6,6,6,66,Iowa State,Big 12,fbs,30,7,10,10,3
+401525538,2023,9,FALSE,TRUE,,3948,2390,Miami,ACC,fbs,29,0,3,14,6,258,Virginia,ACC,fbs,26,7,3,10,3
+401525535,2023,9,FALSE,TRUE,,3873,97,Louisville,ACC,fbs,23,14,3,6,0,150,Duke,ACC,fbs,0,0,0,0,0
+401525440,2023,9,FALSE,FALSE,,3855,87,Notre Dame,FBS Independents,fbs,58,7,10,27,14,221,Pittsburgh,ACC,fbs,7,0,0,0,7
+401524044,2023,9,FALSE,TRUE,,587,254,Utah,Pac-12,fbs,6,3,3,0,0,2483,Oregon,Pac-12,fbs,35,14,7,14,0
+401520355,2023,9,FALSE,TRUE,,3834,158,Nebraska,Big Ten,fbs,31,0,14,7,10,2509,Purdue,Big Ten,fbs,14,0,0,0,14
+401520352,2023,9,TRUE,TRUE,,3712,57,Florida,SEC,fbs,20,7,0,0,13,61,Georgia,SEC,fbs,43,10,16,10,7
+401520354,2023,9,FALSE,TRUE,,3953,135,Minnesota,Big Ten,fbs,27,0,10,0,17,127,Michigan State,Big Ten,fbs,12,6,0,0,6
+401520350,2023,9,FALSE,TRUE,,3785,2,Auburn,SEC,fbs,27,14,10,3,0,344,Mississippi State,SEC,fbs,13,3,0,3,7
+401524041,2023,9,FALSE,TRUE,,3831,25,California,Pac-12,fbs,49,14,14,8,13,30,USC,Pac-12,fbs,50,17,0,12,21
+401531373,2023,9,FALSE,TRUE,,3895,242,Rice,American Athletic,fbs,28,7,0,14,7,2655,Tulane,American Athletic,fbs,30,10,17,0,3
+401531902,2023,9,FALSE,TRUE,,6526,6,South Alabama,Sun Belt,fbs,20,0,0,14,6,309,Louisiana,Sun Belt,fbs,33,0,17,16,0
+401531901,2023,9,FALSE,TRUE,,3817,2433,Louisiana Monroe,Sun Belt,fbs,24,3,6,7,8,2032,Arkansas State,Sun Belt,fbs,34,7,3,7,17
+401532607,2023,9,FALSE,TRUE,,3653,68,Boise State,Mountain West,fbs,32,8,7,14,3,2751,Wyoming,Mountain West,fbs,7,7,0,0,0
+401531899,2023,9,FALSE,TRUE,,3654,324,Coastal Carolina,Sun Belt,fbs,34,10,17,0,7,276,Marshall,Sun Belt,fbs,6,0,6,0,0
+401531903,2023,9,FALSE,TRUE,,3644,326,Texas State,Sun Belt,fbs,13,7,3,3,0,2653,Troy,Sun Belt,fbs,31,0,7,7,17
+401524042,2023,9,FALSE,TRUE,,3940,24,Stanford,Pac-12,fbs,33,0,13,13,7,264,Washington,Pac-12,fbs,42,7,14,7,14
+401520353,2023,9,FALSE,TRUE,,3683,96,Kentucky,SEC,fbs,27,0,17,7,3,2633,Tennessee,SEC,fbs,33,10,13,3,7
+401532603,2023,9,FALSE,TRUE,,5388,36,Colorado State,Mountain West,fbs,13,0,13,0,0,2005,Air Force,Mountain West,fbs,30,7,6,10,7
+401520360,2023,9,FALSE,TRUE,,347,275,Wisconsin,Big Ten,fbs,10,0,3,7,0,194,Ohio State,Big Ten,fbs,24,3,7,7,7
+401520357,2023,9,FALSE,TRUE,,3974,145,Ole Miss,SEC,fbs,33,13,13,0,7,238,Vanderbilt,SEC,fbs,7,0,0,7,0
+401524043,2023,9,FALSE,TRUE,,1056,26,UCLA,Pac-12,fbs,28,0,7,7,14,38,Colorado,Pac-12,fbs,16,6,0,3,7
+401525537,2023,9,FALSE,TRUE,,721,59,Georgia Tech,ACC,fbs,46,0,24,0,22,153,North Carolina,ACC,fbs,42,14,14,7,7
+401525876,2023,9,FALSE,TRUE,,3646,197,Oklahoma State,Big 12,fbs,45,7,3,21,14,2132,Cincinnati,Big 12,fbs,13,7,0,0,6
+401524040,2023,9,FALSE,TRUE,,3947,9,Arizona State,Pac-12,fbs,38,7,17,7,7,265,Washington State,Pac-12,fbs,27,7,14,3,3
+401531900,2023,9,FALSE,TRUE,,3651,256,James Madison,Sun Belt,fbs,30,7,7,16,0,295,Old Dominion,Sun Belt,fbs,27,3,7,14,3
+401532604,2023,9,FALSE,TRUE,,3816,2440,Nevada,Mountain West,fbs,34,3,21,3,7,167,New Mexico,Mountain West,fbs,24,0,0,10,14
+401532606,2023,9,FALSE,TRUE,,3660,278,Fresno State,Mountain West,fbs,31,7,0,24,0,2439,UNLV,Mountain West,fbs,24,7,10,0,7
+401524039,2023,9,FALSE,TRUE,,3619,12,Arizona,Pac-12,fbs,27,3,7,3,14,204,Oregon State,Pac-12,fbs,24,7,3,0,14
+401532605,2023,9,FALSE,TRUE,,7220,62,Hawai'i,Mountain West,fbs,0,0,0,0,0,23,San José State,Mountain West,fbs,35,7,14,7,7
+401532433,2023,10,FALSE,TRUE,,3786,2117,Central Michigan,Mid-American,fbs,37,7,17,13,0,2459,Northern Illinois,Mid-American,fbs,31,3,0,14,14
+401532434,2023,10,FALSE,TRUE,,3739,2649,Toledo,Mid-American,fbs,31,14,10,7,0,2084,Buffalo,Mid-American,fbs,13,7,0,6,0
+401532435,2023,10,FALSE,TRUE,,3700,189,Bowling Green,Mid-American,fbs,24,7,7,0,10,2050,Ball State,Mid-American,fbs,21,0,7,7,7
+401532436,2023,10,FALSE,TRUE,,3768,2006,Akron,Mid-American,fbs,31,7,3,0,21,2309,Kent State,Mid-American,fbs,27,6,14,7,0
+401525879,2023,10,FALSE,TRUE,,3784,2641,Texas Tech,Big 12,fbs,35,7,13,8,7,2628,TCU,Big 12,fbs,28,7,0,14,7
+401531904,2023,10,FALSE,TRUE,,3975,2653,Troy,Sun Belt,fbs,28,0,14,0,14,6,South Alabama,Sun Belt,fbs,10,7,0,0,3
+401525539,2023,10,FALSE,TRUE,,3982,150,Duke,ACC,fbs,24,0,14,0,10,154,Wake Forest,ACC,fbs,21,7,7,7,0
+401525540,2023,10,FALSE,TRUE,,1964,183,Syracuse,ACC,fbs,10,7,0,0,3,103,Boston College,ACC,fbs,17,3,7,0,7
+401532609,2023,10,FALSE,TRUE,,3984,2751,Wyoming,Mountain West,fbs,24,3,7,14,0,36,Colorado State,Mountain West,fbs,15,0,7,0,8
+401520369,2023,10,FALSE,TRUE,,3936,127,Michigan State,Big Ten,fbs,20,3,7,3,7,158,Nebraska,Big Ten,fbs,17,0,10,0,7
+401520363,2023,10,FALSE,TRUE,,3634,57,Florida,SEC,fbs,36,14,3,6,10,8,Arkansas,SEC,fbs,39,14,3,3,13
+401520365,2023,10,FALSE,TRUE,,3830,84,Indiana,Big Ten,fbs,20,7,10,0,3,275,Wisconsin,Big Ten,fbs,14,0,7,7,0
+401520374,2023,10,FALSE,TRUE,,3974,145,Ole Miss,SEC,fbs,38,7,13,11,7,245,Texas A&M,SEC,fbs,35,0,14,7,14
+401525441,2023,10,FALSE,FALSE,,3836,228,Clemson,ACC,fbs,31,10,14,7,0,87,Notre Dame,FBS Independents,fbs,23,3,6,14,0
+401525545,2023,10,FALSE,FALSE,,3787,153,North Carolina,ACC,fbs,59,7,21,17,14,2097,Campbell,CAA,fcs,7,7,0,0,0
+401525884,2023,10,FALSE,TRUE,,3910,251,Texas,Big 12,fbs,33,10,7,10,3,2306,Kansas State,Big 12,fbs,30,0,7,7,16
+401520376,2023,10,FALSE,FALSE,,3994,2579,South Carolina,SEC,fbs,38,14,7,7,10,55,Jacksonville State,Conference USA,fbs,28,7,7,14,0
+401520377,2023,10,FALSE,FALSE,,3853,2633,Tennessee,SEC,fbs,59,14,21,21,3,41,Connecticut,FBS Independents,fbs,3,3,0,0,0
+401520375,2023,10,FALSE,TRUE,,6577,164,Rutgers,Big Ten,fbs,16,0,9,0,7,194,Ohio State,Big Ten,fbs,35,7,0,14,14
+401525451,2023,10,FALSE,FALSE,,3647,2534,Sam Houston State,Conference USA,fbs,24,0,7,7,10,338,Kennesaw State,FCS Independents,fcs,21,14,7,0,0
+401531392,2023,10,FALSE,TRUE,,3806,218,Temple,American Athletic,fbs,32,10,7,0,15,2426,Navy,American Athletic,fbs,18,0,0,8,10
+401524049,2023,10,FALSE,TRUE,,587,254,Utah,Pac-12,fbs,55,14,10,10,21,9,Arizona State,Pac-12,fbs,3,3,0,0,0
+401525542,2023,10,FALSE,TRUE,,3923,258,Virginia,ACC,fbs,17,7,3,0,7,59,Georgia Tech,ACC,fbs,45,3,21,7,14
+401520361,2023,10,TRUE,FALSE,,3937,2005,Air Force,Mountain West,fbs,3,0,3,0,0,349,Army,FBS Independents,fbs,23,17,6,0,0
+401531425,2023,10,FALSE,TRUE,,3805,235,Memphis,American Athletic,fbs,59,21,14,10,14,58,South Florida,American Athletic,fbs,50,7,21,14,8
+401531908,2023,10,FALSE,TRUE,,3625,2032,Arkansas State,Sun Belt,fbs,37,14,6,7,10,309,Louisiana,Sun Belt,fbs,17,7,3,7,0
+401531383,2023,10,FALSE,TRUE,,7221,5,UAB,American Athletic,fbs,45,7,21,7,10,2226,Florida Atlantic,American Athletic,fbs,42,0,14,14,14
+401531399,2023,10,FALSE,TRUE,,3825,249,North Texas,American Athletic,fbs,29,0,13,0,16,2636,UT San Antonio,American Athletic,fbs,37,10,17,3,7
+401525880,2023,10,FALSE,TRUE,,4727,239,Baylor,Big 12,fbs,24,0,0,7,10,248,Houston,Big 12,fbs,25,0,7,3,7
+401520364,2023,10,FALSE,TRUE,,3917,61,Georgia,SEC,fbs,30,3,7,14,6,142,Missouri,SEC,fbs,21,7,3,3,8
+401531907,2023,10,FALSE,TRUE,,3918,295,Old Dominion,Sun Belt,fbs,24,7,0,14,3,324,Coastal Carolina,Sun Belt,fbs,28,0,6,7,15
+401531374,2023,10,FALSE,TRUE,,3699,151,East Carolina,American Athletic,fbs,10,10,0,0,0,2655,Tulane,American Athletic,fbs,13,0,10,0,3
+401531906,2023,10,FALSE,TRUE,,4246,2247,Georgia State,Sun Belt,fbs,14,7,0,7,0,256,James Madison,Sun Belt,fbs,42,7,7,14,14
+401525543,2023,10,FALSE,TRUE,,3873,97,Louisville,ACC,fbs,34,7,7,13,7,259,Virginia Tech,ACC,fbs,3,0,3,0,0
+401525883,2023,10,FALSE,TRUE,,3646,197,Oklahoma State,Big 12,fbs,27,7,10,0,10,201,Oklahoma,Big 12,fbs,24,7,7,7,3
+401525881,2023,10,FALSE,TRUE,,3854,2132,Cincinnati,Big 12,fbs,26,3,7,7,9,2116,UCF,Big 12,fbs,28,7,7,7,7
+401520373,2023,10,TRUE,TRUE,,4250,77,Northwestern,Big Ten,fbs,7,0,0,0,7,2294,Iowa,Big Ten,fbs,10,0,0,7,3
+401525541,2023,10,FALSE,TRUE,,3752,221,Pittsburgh,ACC,fbs,7,0,7,0,0,52,Florida State,ACC,fbs,24,0,10,14,0
+401520367,2023,10,FALSE,TRUE,,3665,120,Maryland,Big Ten,fbs,15,0,7,0,8,213,Penn State,Big Ten,fbs,51,14,7,3,27
+401520370,2023,10,FALSE,TRUE,,3953,135,Minnesota,Big Ten,fbs,26,7,10,3,6,356,Illinois,Big Ten,fbs,27,14,0,7,6
+401520400,2023,10,FALSE,FALSE,,3985,113,UMass,FBS Independents,fbs,31,7,7,3,14,2771,Merrimack,NEC,fcs,21,7,0,0,14
+401532610,2023,10,FALSE,TRUE,,3816,2440,Nevada,Mountain West,fbs,14,0,0,14,0,62,Hawai'i,Mountain West,fbs,27,0,17,7,3
+401531343,2023,10,FALSE,TRUE,,3674,202,Tulsa,American Athletic,fbs,26,14,3,0,9,2429,Charlotte,American Athletic,fbs,33,0,10,5,11
+401520379,2023,10,FALSE,TRUE,,3973,238,Vanderbilt,SEC,fbs,15,0,7,8,0,2,Auburn,SEC,fbs,31,14,3,14,0
+401531909,2023,10,FALSE,TRUE,,3815,2572,Southern Mississippi,Sun Belt,fbs,24,17,0,0,7,2433,Louisiana Monroe,Sun Belt,fbs,7,0,0,7,0
+401531910,2023,10,FALSE,TRUE,,3644,326,Texas State,Sun Belt,fbs,45,7,24,14,0,290,Georgia Southern,Sun Belt,fbs,24,10,0,7,7
+401524047,2023,10,FALSE,TRUE,,3626,2483,Oregon,Pac-12,fbs,63,14,21,7,21,25,California,Pac-12,fbs,19,10,3,6,0
+401520366,2023,10,FALSE,TRUE,,3992,2335,Liberty,Conference USA,fbs,56,14,14,14,14,2348,Louisiana Tech,Conference USA,fbs,30,3,7,14,6
+401531905,2023,10,FALSE,TRUE,,3792,2026,Appalachian State,Sun Belt,fbs,31,0,21,7,3,276,Marshall,Sun Belt,fbs,9,0,3,6,0
+401520372,2023,10,FALSE,TRUE,,3601,166,New Mexico State,Conference USA,fbs,13,0,10,3,0,2393,Middle Tennessee,Conference USA,fbs,7,0,7,0,0
+401532611,2023,10,FALSE,TRUE,,3971,167,New Mexico,Mountain West,fbs,14,0,7,0,7,2439,UNLV,Mountain West,fbs,56,14,21,14,7
+401532612,2023,10,FALSE,TRUE,,7311,21,San Diego State,Mountain West,fbs,24,0,7,0,10,328,Utah State,Mountain West,fbs,32,0,3,7,7
+401525885,2023,10,FALSE,TRUE,,3842,277,West Virginia,Big 12,fbs,37,14,13,10,0,252,BYU,Big 12,fbs,7,0,0,0,7
+401525882,2023,10,FALSE,TRUE,,3772,66,Iowa State,Big 12,fbs,21,0,3,8,10,2305,Kansas,Big 12,fbs,28,7,7,7,7
+401524048,2023,10,FALSE,TRUE,,477,30,USC,Pac-12,fbs,42,14,14,14,0,264,Washington,Pac-12,fbs,52,7,28,7,10
+401531440,2023,10,FALSE,TRUE,,3895,242,Rice,American Athletic,fbs,31,7,14,7,3,2567,SMU,American Athletic,fbs,36,14,10,9,3
+401520368,2023,10,FALSE,TRUE,,3558,130,Michigan,Big Ten,fbs,41,17,3,7,14,2509,Purdue,Big Ten,fbs,13,0,6,0,7
+401520371,2023,10,FALSE,TRUE,,3693,344,Mississippi State,SEC,fbs,3,0,3,0,0,96,Kentucky,SEC,fbs,24,7,14,3,0
+401520362,2023,10,FALSE,TRUE,,3657,333,Alabama,SEC,fbs,42,14,7,14,7,99,LSU,SEC,fbs,28,7,14,7,0
+401525544,2023,10,FALSE,TRUE,,3670,152,NC State,ACC,fbs,20,7,3,0,10,2390,Miami,ACC,fbs,6,3,3,0,0
+401524050,2023,10,FALSE,TRUE,,3820,265,Washington State,Pac-12,fbs,7,0,7,0,0,24,Stanford,Pac-12,fbs,10,0,0,7,3
+401520378,2023,10,FALSE,TRUE,,3946,2638,UTEP,Conference USA,fbs,13,0,3,0,10,98,Western Kentucky,Conference USA,fbs,21,0,0,14,7
+401524046,2023,10,FALSE,TRUE,,3726,38,Colorado,Pac-12,fbs,19,0,3,2,14,204,Oregon State,Pac-12,fbs,26,7,7,6,6
+401532608,2023,10,FALSE,TRUE,,3660,278,Fresno State,Mountain West,fbs,37,10,10,7,10,68,Boise State,Mountain West,fbs,30,3,7,7,13
+401524045,2023,10,FALSE,TRUE,,3619,12,Arizona,Pac-12,fbs,27,7,7,3,10,26,UCLA,Pac-12,fbs,10,0,7,3,0
+401532438,2023,11,FALSE,TRUE,,3980,2711,Western Michigan,Mid-American,fbs,38,7,14,0,17,2117,Central Michigan,Mid-American,fbs,28,0,7,21,0
+401532437,2023,11,FALSE,TRUE,,3764,2459,Northern Illinois,Mid-American,fbs,17,0,10,0,7,2050,Ball State,Mid-American,fbs,20,7,3,0,10
+401532439,2023,11,FALSE,TRUE,,3965,2084,Buffalo,Mid-American,fbs,10,0,3,0,7,195,Ohio,Mid-American,fbs,20,0,0,10,10
+401532442,2023,11,FALSE,TRUE,,3696,2309,Kent State,Mid-American,fbs,19,3,3,7,6,189,Bowling Green,Mid-American,fbs,49,14,14,0,21
+401532441,2023,11,FALSE,TRUE,,3996,193,Miami (OH),Mid-American,fbs,19,7,3,6,3,2006,Akron,Mid-American,fbs,0,0,0,0,0
+401532440,2023,11,FALSE,TRUE,,3739,2649,Toledo,Mid-American,fbs,49,21,14,7,7,2199,Eastern Michigan,Mid-American,fbs,23,0,3,6,14
+401525546,2023,11,FALSE,TRUE,,3873,97,Louisville,ACC,fbs,31,7,7,0,17,258,Virginia,ACC,fbs,24,0,0,21,3
+401531911,2023,11,FALSE,TRUE,,3666,309,Louisiana,Sun Belt,fbs,31,7,7,0,14,2572,Southern Mississippi,Sun Belt,fbs,34,0,14,7,7
+401531437,2023,11,FALSE,TRUE,,3735,2567,SMU,American Athletic,fbs,45,14,3,14,14,249,North Texas,American Athletic,fbs,21,7,7,0,7
+401532618,2023,11,FALSE,TRUE,,6501,2439,UNLV,Mountain West,fbs,34,21,0,7,6,2751,Wyoming,Mountain West,fbs,14,0,14,0,0
+401531344,2023,11,FALSE,TRUE,,4729,2655,Tulane,American Athletic,fbs,24,14,0,7,3,202,Tulsa,American Athletic,fbs,22,0,10,3,9
+401525888,2023,11,FALSE,TRUE,,3833,2305,Kansas,Big 12,fbs,13,0,0,0,13,2641,Texas Tech,Big 12,fbs,16,10,0,3,3
+401531393,2023,11,FALSE,TRUE,,3886,58,South Florida,American Athletic,fbs,27,17,3,7,0,218,Temple,American Athletic,fbs,23,0,10,0,13
+401520383,2023,11,FALSE,TRUE,,3832,356,Illinois,Big Ten,fbs,48,9,17,7,9,84,Indiana,Big Ten,fbs,45,7,20,0,15
+401525548,2023,11,FALSE,TRUE,,3836,228,Clemson,ACC,fbs,42,0,21,7,14,59,Georgia Tech,ACC,fbs,21,7,0,0,14
+401520381,2023,11,FALSE,FALSE,,3841,349,Army,FBS Independents,fbs,17,7,7,0,3,107,Holy Cross,Patriot,fcs,14,0,0,0,14
+401520392,2023,11,FALSE,TRUE,,3834,158,Nebraska,Big Ten,fbs,10,0,0,10,0,120,Maryland,Big Ten,fbs,13,0,7,0,6
+401520396,2023,11,FALSE,TRUE,,3994,2579,South Carolina,SEC,fbs,47,6,7,14,20,238,Vanderbilt,SEC,fbs,6,0,0,0,6
+401520386,2023,11,FALSE,TRUE,,3683,96,Kentucky,SEC,fbs,21,7,0,7,7,333,Alabama,SEC,fbs,49,21,7,7,14
+401520394,2023,11,FALSE,TRUE,,3632,213,Penn State,Big Ten,fbs,15,3,6,0,6,130,Michigan,Big Ten,fbs,24,0,14,3,7
+401525547,2023,11,FALSE,TRUE,,3615,103,Boston College,ACC,fbs,22,7,0,8,7,259,Virginia Tech,ACC,fbs,48,10,21,7,10
+401520388,2023,11,FALSE,FALSE,,3992,2335,Liberty,Conference USA,fbs,38,14,21,3,0,295,Old Dominion,Sun Belt,fbs,10,0,3,0,7
+401524052,2023,11,FALSE,TRUE,,3726,38,Colorado,Pac-12,fbs,31,14,10,7,0,12,Arizona,Pac-12,fbs,34,7,10,7,10
+401520385,2023,11,FALSE,FALSE,,3651,256,James Madison,Sun Belt,fbs,44,3,10,17,14,41,Connecticut,FBS Independents,fbs,6,0,3,3,0
+401525551,2023,11,FALSE,TRUE,,3630,154,Wake Forest,ACC,fbs,6,0,0,0,6,152,NC State,ACC,fbs,26,7,14,0,5
+401531915,2023,11,FALSE,TRUE,,3817,2433,Louisiana Monroe,Sun Belt,fbs,14,0,0,7,7,2653,Troy,Sun Belt,fbs,45,7,14,3,21
+401531913,2023,11,FALSE,TRUE,,4246,2247,Georgia State,Sun Belt,fbs,14,0,0,0,14,2026,Appalachian State,Sun Belt,fbs,42,7,14,7,14
+401531408,2023,11,FALSE,TRUE,,4418,2429,Charlotte,American Athletic,fbs,38,0,17,7,14,235,Memphis,American Athletic,fbs,44,7,7,7,17
+401532615,2023,11,FALSE,TRUE,,3905,328,Utah State,Mountain West,fbs,41,7,17,10,7,2440,Nevada,Mountain West,fbs,24,7,3,0,14
+401525889,2023,11,FALSE,TRUE,,3636,2306,Kansas State,Big 12,fbs,59,21,14,17,7,239,Baylor,Big 12,fbs,25,7,6,6,6
+401520387,2023,11,FALSE,TRUE,,3776,2348,Louisiana Tech,Conference USA,fbs,27,3,3,14,7,2534,Sam Houston State,Conference USA,fbs,42,7,7,14,14
+401520399,2023,11,FALSE,TRUE,,3796,98,Western Kentucky,Conference USA,fbs,29,14,7,0,8,166,New Mexico State,Conference USA,fbs,38,3,14,7,14
+401524056,2023,11,FALSE,TRUE,,3765,264,Washington,Pac-12,fbs,35,10,14,11,0,254,Utah,Pac-12,fbs,28,7,21,0,0
+401520390,2023,11,FALSE,TRUE,,3725,2393,Middle Tennessee,Conference USA,fbs,40,17,14,0,9,2229,Florida International,Conference USA,fbs,6,0,6,0,0
+401520391,2023,11,FALSE,TRUE,,3838,142,Missouri,SEC,fbs,36,0,13,9,14,2633,Tennessee,SEC,fbs,7,0,7,0,0
+401520395,2023,11,FALSE,TRUE,,3907,2509,Purdue,Big Ten,fbs,49,14,14,7,14,135,Minnesota,Big Ten,fbs,30,10,10,0,10
+401520398,2023,11,FALSE,TRUE,,347,275,Wisconsin,Big Ten,fbs,10,3,0,0,7,77,Northwestern,Big Ten,fbs,24,7,17,0,0
+401525892,2023,11,FALSE,TRUE,,3652,2116,UCF,Big 12,fbs,45,14,10,14,7,197,Oklahoma State,Big 12,fbs,3,0,0,3,0
+401531384,2023,11,FALSE,TRUE,,3852,2426,Navy,American Athletic,fbs,31,7,0,3,21,5,UAB,American Athletic,fbs,6,3,3,0,0
+401520384,2023,11,FALSE,TRUE,,3793,2294,Iowa,Big Ten,fbs,22,0,3,3,16,164,Rutgers,Big Ten,fbs,0,0,0,0,0
+401531912,2023,11,FALSE,TRUE,,3654,324,Coastal Carolina,Sun Belt,fbs,31,7,14,7,3,326,Texas State,Sun Belt,fbs,23,10,0,0,13
+401525550,2023,11,FALSE,TRUE,,3697,52,Florida State,ACC,fbs,27,7,3,10,7,2390,Miami,ACC,fbs,20,0,10,3,7
+401525552,2023,11,TRUE,TRUE,,4102,183,Syracuse,ACC,fbs,28,7,0,14,7,221,Pittsburgh,ACC,fbs,13,3,10,0,0
+401520380,2023,11,FALSE,TRUE,,3887,8,Arkansas,SEC,fbs,10,3,0,0,7,2,Auburn,SEC,fbs,48,21,6,21,0
+401531416,2023,11,FALSE,TRUE,,3715,2226,Florida Atlantic,American Athletic,fbs,7,0,7,0,0,151,East Carolina,American Athletic,fbs,22,7,6,0,9
+401524051,2023,11,FALSE,TRUE,,3831,25,California,Pac-12,fbs,42,14,14,0,14,265,Washington State,Pac-12,fbs,39,7,14,3,15
+401531916,2023,11,FALSE,TRUE,,6526,6,South Alabama,Sun Belt,fbs,21,7,7,7,0,2032,Arkansas State,Sun Belt,fbs,14,3,0,3,8
+401524054,2023,11,FALSE,TRUE,,3893,204,Oregon State,Pac-12,fbs,62,14,20,21,7,24,Stanford,Pac-12,fbs,17,7,3,7,0
+401532617,2023,11,FALSE,TRUE,,5388,36,Colorado State,Mountain West,fbs,22,5,10,7,0,21,San Diego State,Mountain West,fbs,19,0,0,6,13
+401525887,2023,11,FALSE,TRUE,,4728,248,Houston,Big 12,fbs,14,0,7,0,7,2132,Cincinnati,Big 12,fbs,24,7,7,3,7
+401520382,2023,11,FALSE,TRUE,,3917,61,Georgia,SEC,fbs,52,14,14,10,14,145,Ole Miss,SEC,fbs,17,7,7,0,3
+401531914,2023,11,FALSE,TRUE,,3775,276,Marshall,Sun Belt,fbs,38,10,7,7,14,290,Georgia Southern,Sun Belt,fbs,33,3,17,6,7
+401525890,2023,11,FALSE,TRUE,,3835,201,Oklahoma,Big 12,fbs,59,14,17,14,14,277,West Virginia,Big 12,fbs,20,7,7,6,0
+401525891,2023,11,FALSE,TRUE,,3616,2628,TCU,Big 12,fbs,26,6,0,0,20,251,Texas,Big 12,fbs,29,7,19,0,3
+401531400,2023,11,FALSE,TRUE,,3604,2636,UT San Antonio,American Athletic,fbs,34,3,7,21,3,242,Rice,American Athletic,fbs,14,0,7,0,7
+401520393,2023,11,FALSE,TRUE,,3861,194,Ohio State,Big Ten,fbs,38,14,21,3,0,127,Michigan State,Big Ten,fbs,3,0,3,0,0
+401520397,2023,11,FALSE,TRUE,,3795,245,Texas A&M,SEC,fbs,51,17,17,14,3,344,Mississippi State,SEC,fbs,10,7,3,0,0
+401520389,2023,11,FALSE,TRUE,,3958,99,LSU,SEC,fbs,52,7,10,21,14,57,Florida,SEC,fbs,35,7,7,14,7
+401525549,2023,11,FALSE,TRUE,,3787,153,North Carolina,ACC,fbs,47,10,6,3,17,150,Duke,ACC,fbs,45,0,14,0,22
+401524055,2023,11,FALSE,TRUE,,1056,26,UCLA,Pac-12,fbs,7,0,0,0,7,9,Arizona State,Pac-12,fbs,17,0,3,7,7
+401532616,2023,11,FALSE,TRUE,,3653,68,Boise State,Mountain West,fbs,42,15,17,7,3,167,New Mexico,Mountain West,fbs,14,7,7,0,0
+401525886,2023,11,FALSE,TRUE,,3801,252,BYU,Big 12,fbs,13,7,0,6,0,66,Iowa State,Big 12,fbs,45,17,14,14,0
+401532614,2023,11,FALSE,TRUE,,3935,23,San José State,Mountain West,fbs,42,21,7,7,7,278,Fresno State,Mountain West,fbs,18,3,7,0,8
+401524053,2023,11,FALSE,TRUE,,3626,2483,Oregon,Pac-12,fbs,36,13,9,7,7,30,USC,Pac-12,fbs,27,7,7,0,13
+401532613,2023,11,FALSE,TRUE,,7220,62,Hawai'i,Mountain West,fbs,27,7,6,7,7,2005,Air Force,Mountain West,fbs,13,0,3,7,3
+401532445,2023,12,FALSE,TRUE,,3912,2199,Eastern Michigan,Mid-American,fbs,30,0,14,0,3,2006,Akron,Mid-American,fbs,27,0,14,0,3
+401532444,2023,12,FALSE,TRUE,,3764,2459,Northern Illinois,Mid-American,fbs,24,7,7,7,3,2711,Western Michigan,Mid-American,fbs,0,0,0,0,0
+401532443,2023,12,FALSE,TRUE,,3700,189,Bowling Green,Mid-American,fbs,31,14,14,0,3,2649,Toledo,Mid-American,fbs,32,7,3,7,15
+401532446,2023,12,FALSE,TRUE,,3876,195,Ohio,Mid-American,fbs,34,10,7,14,3,2117,Central Michigan,Mid-American,fbs,20,0,7,7,6
+401532447,2023,12,FALSE,TRUE,,3996,193,Miami (OH),Mid-American,fbs,23,0,10,3,10,2084,Buffalo,Mid-American,fbs,10,0,3,7,0
+401525553,2023,12,FALSE,TRUE,,3752,221,Pittsburgh,ACC,fbs,24,3,7,7,7,103,Boston College,ACC,fbs,16,3,3,7,3
+401531401,2023,12,FALSE,TRUE,,3604,2636,UT San Antonio,American Athletic,fbs,49,7,21,14,7,58,South Florida,American Athletic,fbs,21,7,7,7,0
+401524057,2023,12,FALSE,TRUE,,3820,265,Washington State,Pac-12,fbs,56,21,21,14,0,38,Colorado,Pac-12,fbs,14,7,0,0,7
+401520417,2023,12,FALSE,TRUE,,3632,213,Penn State,Big Ten,fbs,27,0,10,3,14,164,Rutgers,Big Ten,fbs,6,3,3,0,0
+401520410,2023,12,FALSE,TRUE,,3665,120,Maryland,Big Ten,fbs,24,3,7,14,0,130,Michigan,Big Ten,fbs,31,16,7,6,2
+401520414,2023,12,FALSE,TRUE,,3911,77,Northwestern,Big Ten,fbs,23,6,0,10,7,2509,Purdue,Big Ten,fbs,15,0,0,7,8
+401520405,2023,12,FALSE,TRUE,,3830,84,Indiana,Big Ten,fbs,21,0,7,7,7,127,Michigan State,Big Ten,fbs,24,7,7,0,10
+401520416,2023,12,FALSE,FALSE,,3974,145,Ole Miss,SEC,fbs,35,7,0,21,7,2433,Louisiana Monroe,Sun Belt,fbs,3,0,3,0,0
+401525558,2023,12,FALSE,TRUE,,3948,2390,Miami,ACC,fbs,31,14,7,7,3,97,Louisville,ACC,fbs,38,14,6,3,15
+401525893,2023,12,FALSE,TRUE,,3801,252,BYU,Big 12,fbs,24,7,10,7,0,201,Oklahoma,Big 12,fbs,31,7,10,7,7
+401520401,2023,12,FALSE,FALSE,,3657,333,Alabama,SEC,fbs,66,21,17,14,14,236,Chattanooga,Southern,fcs,10,0,7,3,0
+401520420,2023,12,FALSE,FALSE,,3795,245,Texas A&M,SEC,fbs,38,7,10,7,14,2000,Abilene Christian,UAC,fcs,10,7,0,0,3
+401520421,2023,12,FALSE,FALSE,,3892,41,Connecticut,FBS Independents,fbs,31,17,7,0,7,2529,Sacred Heart,NEC,fcs,3,0,3,0,0
+401531375,2023,12,FALSE,TRUE,,3715,2226,Florida Atlantic,American Athletic,fbs,8,0,0,0,8,2655,Tulane,American Athletic,fbs,24,7,7,10,0
+401520403,2023,12,FALSE,FALSE,,3841,349,Army,FBS Independents,fbs,28,7,14,7,0,324,Coastal Carolina,Sun Belt,fbs,21,7,7,0,7
+401520412,2023,12,FALSE,FALSE,,3693,344,Mississippi State,SEC,fbs,41,3,13,7,18,2572,Southern Mississippi,Sun Belt,fbs,20,7,0,0,13
+401531417,2023,12,FALSE,TRUE,,3852,2426,Navy,American Athletic,fbs,10,7,0,0,3,151,East Carolina,American Athletic,fbs,0,0,0,0,0
+401531431,2023,12,FALSE,TRUE,,3805,235,Memphis,American Athletic,fbs,34,10,3,8,13,2567,SMU,American Athletic,fbs,38,7,7,14,10
+401520408,2023,12,FALSE,FALSE,,3992,2335,Liberty,Conference USA,fbs,49,21,14,7,7,113,UMass,FBS Independents,fbs,25,0,10,0,15
+401531918,2023,12,FALSE,TRUE,,3651,256,James Madison,Sun Belt,fbs,23,0,5,0,15,2026,Appalachian State,Sun Belt,fbs,26,3,7,0,10
+401520407,2023,12,FALSE,TRUE,,3662,55,Jacksonville State,Conference USA,fbs,56,21,21,14,0,2348,Louisiana Tech,Conference USA,fbs,17,7,3,7,0
+401531409,2023,12,FALSE,TRUE,,4418,2429,Charlotte,American Athletic,fbs,7,0,0,0,7,242,Rice,American Athletic,fbs,28,10,3,8,7
+401532448,2023,12,FALSE,TRUE,,3919,2050,Ball State,Mid-American,fbs,34,3,10,14,7,2309,Kent State,Mid-American,fbs,3,0,3,0,0
+401532620,2023,12,FALSE,TRUE,,3984,2751,Wyoming,Mountain West,fbs,42,14,21,0,7,62,Hawai'i,Mountain West,fbs,9,0,0,9,0
+401520411,2023,12,FALSE,TRUE,,3725,2393,Middle Tennessee,Conference USA,fbs,34,14,10,7,3,2638,UTEP,Conference USA,fbs,30,7,14,3,6
+401524058,2023,12,FALSE,TRUE,,3619,12,Arizona,Pac-12,fbs,42,21,7,0,14,254,Utah,Pac-12,fbs,18,0,7,3,8
+401525899,2023,12,FALSE,TRUE,,3842,277,West Virginia,Big 12,fbs,42,7,21,14,0,2132,Cincinnati,Big 12,fbs,21,0,7,0,14
+401531919,2023,12,FALSE,TRUE,,3625,2032,Arkansas State,Sun Belt,fbs,77,14,21,28,14,326,Texas State,Sun Belt,fbs,31,10,7,7,7
+401532621,2023,12,FALSE,TRUE,,5388,36,Colorado State,Mountain West,fbs,30,14,6,3,7,2440,Nevada,Mountain West,fbs,20,3,10,7,0
+401531345,2023,12,FALSE,TRUE,,3674,202,Tulsa,American Athletic,fbs,28,7,14,0,7,249,North Texas,American Athletic,fbs,35,7,14,14,0
+401525555,2023,12,FALSE,TRUE,,3923,258,Virginia,ACC,fbs,30,7,3,14,6,150,Duke,ACC,fbs,27,0,10,3,14
+401531385,2023,12,FALSE,TRUE,,7221,5,UAB,American Athletic,fbs,34,0,10,7,17,218,Temple,American Athletic,fbs,24,7,7,3,7
+401531921,2023,12,FALSE,TRUE,,3975,2653,Troy,Sun Belt,fbs,31,0,17,0,14,309,Louisiana,Sun Belt,fbs,24,7,3,7,7
+401524062,2023,12,FALSE,TRUE,,477,30,USC,Pac-12,fbs,20,0,10,3,7,26,UCLA,Pac-12,fbs,38,14,0,17,7
+401525554,2023,12,FALSE,TRUE,,3836,228,Clemson,ACC,fbs,31,0,14,14,3,153,North Carolina,ACC,fbs,20,7,0,7,6
+401525442,2023,12,FALSE,FALSE,,3855,87,Notre Dame,FBS Independents,fbs,45,7,10,14,14,154,Wake Forest,ACC,fbs,7,0,7,0,0
+401532624,2023,12,FALSE,TRUE,,3713,2005,Air Force,Mountain West,fbs,27,7,20,0,0,2439,UNLV,Mountain West,fbs,31,7,7,14,3
+401520423,2023,12,FALSE,TRUE,,3796,98,Western Kentucky,Conference USA,fbs,28,7,14,0,7,2534,Sam Houston State,Conference USA,fbs,23,0,16,7,0
+401525897,2023,12,FALSE,TRUE,,3616,2628,TCU,Big 12,fbs,42,0,14,14,14,239,Baylor,Big 12,fbs,17,7,3,7,0
+401520406,2023,12,FALSE,TRUE,,3793,2294,Iowa,Big Ten,fbs,15,2,7,0,6,356,Illinois,Big Ten,fbs,13,3,7,0,3
+401520419,2023,12,FALSE,TRUE,,3853,2633,Tennessee,SEC,fbs,10,7,3,0,0,61,Georgia,SEC,fbs,38,10,14,14,0
+401525559,2023,12,FALSE,TRUE,,3799,259,Virginia Tech,ACC,fbs,28,0,7,7,14,152,NC State,ACC,fbs,35,0,21,14,0
+401524059,2023,12,FALSE,TRUE,,3947,9,Arizona State,Pac-12,fbs,13,0,0,3,10,2483,Oregon,Pac-12,fbs,49,21,21,0,7
+401520415,2023,12,FALSE,TRUE,,3861,194,Ohio State,Big Ten,fbs,37,7,6,17,7,135,Minnesota,Big Ten,fbs,3,0,0,0,3
+401520404,2023,12,FALSE,FALSE,,3785,2,Auburn,SEC,fbs,10,0,7,0,3,166,New Mexico State,Conference USA,fbs,31,7,3,7,14
+401525894,2023,12,FALSE,TRUE,,4728,248,Houston,Big 12,fbs,30,14,9,0,7,197,Oklahoma State,Big 12,fbs,43,3,16,14,10
+401525898,2023,12,FALSE,TRUE,,3784,2641,Texas Tech,Big 12,fbs,24,0,14,7,3,2116,UCF,Big 12,fbs,23,14,0,0,9
+401531920,2023,12,FALSE,TRUE,,6526,6,South Alabama,Sun Belt,fbs,28,14,7,0,7,276,Marshall,Sun Belt,fbs,0,0,0,0,0
+401531917,2023,12,FALSE,TRUE,,3608,290,Georgia Southern,Sun Belt,fbs,17,0,7,3,7,295,Old Dominion,Sun Belt,fbs,20,0,10,7,3
+401525556,2023,12,FALSE,FALSE,,3697,52,Florida State,ACC,fbs,58,0,24,14,20,2453,North Alabama,UAC,fcs,13,13,0,0,0
+401524061,2023,12,FALSE,TRUE,,3940,24,Stanford,Pac-12,fbs,15,3,3,9,0,25,California,Pac-12,fbs,27,7,7,7,6
+401525896,2023,12,FALSE,TRUE,,3833,2305,Kansas,Big 12,fbs,27,7,13,7,0,2306,Kansas State,Big 12,fbs,31,7,9,8,7
+401532619,2023,12,FALSE,TRUE,,3905,328,Utah State,Mountain West,fbs,10,7,3,0,0,68,Boise State,Mountain West,fbs,45,0,31,7,7
+401520418,2023,12,FALSE,TRUE,,3994,2579,South Carolina,SEC,fbs,17,10,0,0,7,96,Kentucky,SEC,fbs,14,0,7,7,0
+401520422,2023,12,FALSE,TRUE,,347,275,Wisconsin,Big Ten,fbs,24,0,10,7,0,158,Nebraska,Big Ten,fbs,17,14,0,0,3
+401520402,2023,12,FALSE,FALSE,,3887,8,Arkansas,SEC,fbs,44,7,24,7,6,2229,Florida International,Conference USA,fbs,20,13,0,7,0
+401520413,2023,12,FALSE,TRUE,,3838,142,Missouri,SEC,fbs,33,3,10,10,10,57,Florida,SEC,fbs,31,7,0,14,10
+401524060,2023,12,FALSE,TRUE,,3893,204,Oregon State,Pac-12,fbs,20,7,3,7,3,264,Washington,Pac-12,fbs,22,9,13,0,0
+401525557,2023,12,FALSE,TRUE,,721,59,Georgia Tech,ACC,fbs,31,7,10,7,7,183,Syracuse,ACC,fbs,22,3,0,13,6
+401525895,2023,12,FALSE,TRUE,,3772,66,Iowa State,Big 12,fbs,16,3,0,6,7,251,Texas,Big 12,fbs,26,0,6,9,11
+401520409,2023,12,FALSE,FALSE,,3958,99,LSU,SEC,fbs,56,14,21,7,14,2247,Georgia State,Sun Belt,fbs,14,7,7,0,0
+401532622,2023,12,FALSE,TRUE,,3660,278,Fresno State,Mountain West,fbs,17,7,7,0,3,167,New Mexico,Mountain West,fbs,25,3,9,6,7
+401532623,2023,12,FALSE,TRUE,,3935,23,San José State,Mountain West,fbs,24,0,10,7,7,21,San Diego State,Mountain West,fbs,13,7,3,0,3
+401532450,2023,13,FALSE,TRUE,,3980,2711,Western Michigan,Mid-American,fbs,10,0,3,0,7,189,Bowling Green,Mid-American,fbs,34,10,21,3,0
+401532449,2023,13,FALSE,TRUE,,3965,2084,Buffalo,Mid-American,fbs,11,0,0,8,3,2199,Eastern Michigan,Mid-American,fbs,24,7,17,0,0
+401520424,2023,13,FALSE,TRUE,,3693,344,Mississippi State,SEC,fbs,7,0,0,7,0,145,Ole Miss,SEC,fbs,17,0,3,7,7
+401532451,2023,13,FALSE,TRUE,,3786,2117,Central Michigan,Mid-American,fbs,17,0,0,3,14,2649,Toledo,Mid-American,fbs,32,0,10,7,15
+401520425,2023,13,FALSE,TRUE,,3834,158,Nebraska,Big Ten,fbs,10,0,7,3,0,2294,Iowa,Big Ten,fbs,13,0,10,0,3
+401525560,2023,13,FALSE,TRUE,,3615,103,Boston College,ACC,fbs,20,7,0,7,6,2390,Miami,ACC,fbs,45,7,21,7,10
+401525900,2023,13,FALSE,TRUE,,3835,201,Oklahoma,Big 12,fbs,69,14,28,10,17,2628,TCU,Big 12,fbs,45,13,3,22,7
+401531394,2023,13,FALSE,TRUE,,3806,218,Temple,American Athletic,fbs,21,6,0,8,7,235,Memphis,American Athletic,fbs,45,14,14,7,10
+401532452,2023,13,FALSE,TRUE,,3768,2006,Akron,Mid-American,fbs,14,0,14,0,0,195,Ohio,Mid-American,fbs,25,3,0,15,7
+401531376,2023,13,FALSE,TRUE,,4729,2655,Tulane,American Athletic,fbs,29,7,16,0,6,2636,UT San Antonio,American Athletic,fbs,16,7,3,0,6
+401532629,2023,13,FALSE,TRUE,,3971,167,New Mexico,Mountain West,fbs,41,7,7,7,10,328,Utah State,Mountain West,fbs,44,14,3,7,7
+401532625,2023,13,FALSE,TRUE,,3653,68,Boise State,Mountain West,fbs,27,3,14,7,3,2005,Air Force,Mountain West,fbs,19,0,6,13,0
+401520426,2023,13,FALSE,TRUE,,3887,8,Arkansas,SEC,fbs,14,0,0,0,14,142,Missouri,SEC,fbs,48,10,10,21,7
+401525901,2023,13,FALSE,TRUE,,3910,251,Texas,Big 12,fbs,57,10,16,24,7,2641,Texas Tech,Big 12,fbs,7,7,0,0,0
+401520435,2023,13,TRUE,TRUE,,3727,127,Michigan State,Big Ten,fbs,0,0,0,0,0,213,Penn State,Big Ten,fbs,42,3,10,15,14
+401524063,2023,13,FALSE,TRUE,,3626,2483,Oregon,Pac-12,fbs,31,7,14,3,7,204,Oregon State,Pac-12,fbs,7,0,7,0,0
+401520443,2023,13,FALSE,TRUE,,3985,113,UMass,FBS Independents,fbs,18,0,0,6,12,41,Connecticut,FBS Independents,fbs,31,6,13,6,6
+401520433,2023,13,FALSE,TRUE,,3958,99,LSU,SEC,fbs,42,7,7,7,21,245,Texas A&M,SEC,fbs,30,0,17,7,6
+401520434,2023,13,FALSE,TRUE,,3558,130,Michigan,Big Ten,fbs,30,7,7,10,6,194,Ohio State,Big Ten,fbs,24,3,7,7,7
+401520438,2023,13,FALSE,TRUE,,3907,2509,Purdue,Big Ten,fbs,35,0,12,6,17,84,Indiana,Big Ten,fbs,31,7,7,14,3
+401520440,2023,13,FALSE,TRUE,,3647,2534,Sam Houston State,Conference USA,fbs,23,3,6,7,7,2393,Middle Tennessee,Conference USA,fbs,20,10,0,3,7
+401531927,2023,13,FALSE,TRUE,,3815,2572,Southern Mississippi,Sun Belt,fbs,17,0,10,7,0,2653,Troy,Sun Belt,fbs,35,7,7,14,7
+401532453,2023,13,FALSE,TRUE,,3696,2309,Kent State,Mid-American,fbs,27,0,17,3,7,2459,Northern Illinois,Mid-American,fbs,37,10,0,14,13
+401532454,2023,13,FALSE,TRUE,,3919,2050,Ball State,Mid-American,fbs,15,6,6,0,3,193,Miami (OH),Mid-American,fbs,17,7,7,3,0
+401525906,2023,13,FALSE,TRUE,,3652,2116,UCF,Big 12,fbs,27,6,7,14,0,248,Houston,Big 12,fbs,13,10,0,0,3
+401525561,2023,13,FALSE,TRUE,,3982,150,Duke,ACC,fbs,30,3,7,10,10,221,Pittsburgh,ACC,fbs,19,3,7,3,6
+401520432,2023,13,FALSE,FALSE,,3873,97,Louisville,ACC,fbs,31,7,3,14,7,96,Kentucky,SEC,fbs,38,0,7,14,17
+401531435,2023,13,FALSE,TRUE,,3735,2567,SMU,American Athletic,fbs,59,28,24,7,0,2426,Navy,American Athletic,fbs,14,7,7,0,0
+401531421,2023,13,FALSE,TRUE,,3895,242,Rice,American Athletic,fbs,24,7,3,14,0,2226,Florida Atlantic,American Athletic,fbs,21,7,0,7,7
+401531386,2023,13,FALSE,TRUE,,3825,249,North Texas,American Athletic,fbs,45,7,7,11,20,5,UAB,American Athletic,fbs,42,13,15,0,14
+401531346,2023,13,FALSE,TRUE,,3699,151,East Carolina,American Athletic,fbs,27,14,10,0,3,202,Tulsa,American Athletic,fbs,29,13,7,6,3
+401525563,2023,13,FALSE,TRUE,,1964,183,Syracuse,ACC,fbs,35,7,7,7,14,154,Wake Forest,ACC,fbs,31,7,3,7,14
+401531925,2023,13,FALSE,TRUE,,3918,295,Old Dominion,Sun Belt,fbs,25,0,0,7,18,2247,Georgia State,Sun Belt,fbs,24,7,14,0,3
+401532628,2023,13,FALSE,TRUE,,6501,2439,UNLV,Mountain West,fbs,31,7,3,7,14,23,San José State,Mountain West,fbs,37,17,3,10,7
+401524067,2023,13,FALSE,TRUE,,587,254,Utah,Pac-12,fbs,23,7,6,7,3,38,Colorado,Pac-12,fbs,17,0,10,0,7
+401531926,2023,13,FALSE,TRUE,,3666,309,Louisiana,Sun Belt,fbs,52,7,24,14,7,2433,Louisiana Monroe,Sun Belt,fbs,21,7,7,0,7
+401520428,2023,13,FALSE,TRUE,,218,2229,Florida International,Conference USA,fbs,28,0,7,7,14,98,Western Kentucky,Conference USA,fbs,41,21,13,7,0
+401520436,2023,13,FALSE,TRUE,,3953,135,Minnesota,Big Ten,fbs,14,7,7,0,0,275,Wisconsin,Big Ten,fbs,28,0,14,14,0
+401520431,2023,13,FALSE,TRUE,,3832,356,Illinois,Big Ten,fbs,43,3,17,3,20,77,Northwestern,Big Ten,fbs,45,7,14,7,17
+401524064,2023,13,FALSE,TRUE,,3947,9,Arizona State,Pac-12,fbs,23,7,0,8,8,12,Arizona,Pac-12,fbs,59,10,28,14,7
+401525564,2023,13,FALSE,TRUE,,3923,258,Virginia,ACC,fbs,17,0,0,10,7,259,Virginia Tech,ACC,fbs,55,10,14,24,7
+401525905,2023,13,FALSE,TRUE,,3646,197,Oklahoma State,Big 12,fbs,40,6,0,7,14,252,BYU,Big 12,fbs,34,7,17,0,3
+401531924,2023,13,FALSE,TRUE,,3775,276,Marshall,Sun Belt,fbs,35,14,14,7,0,2032,Arkansas State,Sun Belt,fbs,21,0,7,7,7
+401531923,2023,13,FALSE,TRUE,,3654,324,Coastal Carolina,Sun Belt,fbs,14,0,0,7,7,256,James Madison,Sun Belt,fbs,56,7,21,14,14
+401520444,2023,13,FALSE,TRUE,,3946,2638,UTEP,Conference USA,fbs,28,7,0,0,21,2335,Liberty,Conference USA,fbs,42,21,7,7,7
+401520427,2023,13,FALSE,TRUE,,3785,2,Auburn,SEC,fbs,24,7,7,7,3,333,Alabama,SEC,fbs,27,7,10,3,7
+401520442,2023,13,FALSE,TRUE,,3853,2633,Tennessee,SEC,fbs,48,14,17,14,3,238,Vanderbilt,SEC,fbs,24,7,3,0,14
+401520439,2023,13,FALSE,TRUE,,6577,164,Rutgers,Big Ten,fbs,24,3,14,0,7,120,Maryland,Big Ten,fbs,42,21,7,7,7
+401531922,2023,13,FALSE,TRUE,,3792,2026,Appalachian State,Sun Belt,fbs,55,3,24,14,14,290,Georgia Southern,Sun Belt,fbs,27,14,3,0,10
+401520437,2023,13,FALSE,TRUE,,3601,166,New Mexico State,Conference USA,fbs,20,14,3,0,3,55,Jacksonville State,Conference USA,fbs,17,0,3,0,14
+401524068,2023,13,FALSE,TRUE,,3765,264,Washington,Pac-12,fbs,24,7,7,7,3,265,Washington State,Pac-12,fbs,21,7,7,0,7
+401524065,2023,13,FALSE,FALSE,,3940,24,Stanford,Pac-12,fbs,23,13,3,0,7,87,Notre Dame,FBS Independents,fbs,56,7,21,21,7
+401525902,2023,13,FALSE,TRUE,,4727,239,Baylor,Big 12,fbs,31,0,14,14,3,277,West Virginia,Big 12,fbs,34,7,20,0,7
+401531928,2023,13,FALSE,TRUE,,3644,326,Texas State,Sun Belt,fbs,52,24,7,7,14,6,South Alabama,Sun Belt,fbs,44,0,17,7,20
+401520429,2023,13,FALSE,FALSE,,3634,57,Florida,SEC,fbs,15,0,12,3,0,52,Florida State,ACC,fbs,24,0,7,7,10
+401520430,2023,13,FALSE,FALSE,,721,59,Georgia Tech,ACC,fbs,23,10,3,0,10,61,Georgia,SEC,fbs,31,7,14,10,0
+401531410,2023,13,FALSE,TRUE,,3886,58,South Florida,American Athletic,fbs,48,7,14,20,7,2429,Charlotte,American Athletic,fbs,14,7,0,7,0
+401520441,2023,13,FALSE,FALSE,,3994,2579,South Carolina,SEC,fbs,7,7,0,0,0,228,Clemson,ACC,fbs,16,10,3,3,0
+401525903,2023,13,FALSE,TRUE,,3854,2132,Cincinnati,Big 12,fbs,16,3,7,0,6,2305,Kansas,Big 12,fbs,49,0,21,7,21
+401525904,2023,13,FALSE,TRUE,,3636,2306,Kansas State,Big 12,fbs,35,6,14,8,7,66,Iowa State,Big 12,fbs,42,7,7,14,14
+401525562,2023,13,FALSE,TRUE,,3670,152,NC State,ACC,fbs,39,6,20,13,0,153,North Carolina,ACC,fbs,20,0,7,13,0
+401532630,2023,13,FALSE,TRUE,,3816,2440,Nevada,Mountain West,fbs,6,0,6,0,0,2751,Wyoming,Mountain West,fbs,42,14,7,14,7
+401532627,2023,13,FALSE,TRUE,,7311,21,San Diego State,Mountain West,fbs,33,3,13,7,10,278,Fresno State,Mountain West,fbs,18,7,3,0,8
+401524066,2023,13,FALSE,TRUE,,1056,26,UCLA,Pac-12,fbs,7,0,7,0,0,25,California,Pac-12,fbs,33,6,14,0,13
+401532626,2023,13,FALSE,TRUE,,7220,62,Hawai'i,Mountain West,fbs,27,7,7,7,6,36,Colorado State,Mountain West,fbs,24,7,3,0,14
+401539476,2023,14,FALSE,TRUE,,3992,2335,Liberty,Conference USA,fbs,49,7,14,14,14,166,New Mexico State,Conference USA,fbs,35,7,14,14,0
+401539475,2023,14,TRUE,TRUE,,6501,264,Washington,Pac-12,fbs,34,10,10,0,14,2483,Oregon,Pac-12,fbs,31,0,10,14,7
+401539481,2023,14,TRUE,TRUE,,3727,2649,Toledo,Mid-American,fbs,14,0,8,6,0,193,Miami (OH),Mid-American,fbs,23,10,0,3,10
+401539479,2023,14,TRUE,TRUE,,3687,251,Texas,Big 12,fbs,49,21,14,7,7,197,Oklahoma State,Big 12,fbs,21,7,7,0,7
+401539482,2023,14,FALSE,TRUE,,6501,2439,UNLV,Mountain West,fbs,20,7,10,3,0,68,Boise State,Mountain West,fbs,44,14,17,10,3
+401539484,2023,14,FALSE,TRUE,,3975,2653,Troy,Sun Belt,fbs,49,0,14,7,28,2026,Appalachian State,Sun Belt,fbs,23,0,7,10,6
+401539483,2023,14,TRUE,TRUE,,5348,333,Alabama,SEC,fbs,27,3,14,3,7,61,Georgia,SEC,fbs,24,7,0,3,14
+401539477,2023,14,FALSE,TRUE,,4729,2655,Tulane,American Athletic,fbs,14,7,0,7,0,2567,SMU,American Athletic,fbs,26,7,7,3,9
+401539480,2023,14,TRUE,TRUE,,3812,2294,Iowa,Big Ten,fbs,0,0,0,0,0,130,Michigan,Big Ten,fbs,26,10,0,10,6
+401539478,2023,14,TRUE,TRUE,,3628,52,Florida State,ACC,fbs,16,0,3,7,6,97,Louisville,ACC,fbs,6,0,0,3,3
+401520445,2023,15,TRUE,FALSE,,3738,349,Army,FBS Independents,fbs,17,0,10,0,7,2426,Navy,American Athletic,fbs,11,0,0,0,11
